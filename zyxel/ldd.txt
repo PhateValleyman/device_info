@@ -1,0 +1,7 @@
+	libncursesw.so.5 => /ffp/lib/libncursesw.so.5 (0x4000e000)
+	libiconv.so.2 => /ffp/lib/libiconv.so.2 (0x40078000)
+	libdl.so.0 => /ffp/lib/libdl.so.0 (0x40185000)
+	libgcc_s.so.1 => /ffp/lib/libgcc_s.so.1 (0x40190000)
+	libc.so.0 => /ffp/lib/libc.so.0 (0x401b7000)
+	libpthread.so.0 => /ffp/lib/libpthread.so.0 (0x40222000)
+	ld-uClibc.so.0 => /ffp/lib/ld-uClibc.so.0 (0x2a000000)

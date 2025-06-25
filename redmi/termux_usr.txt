@@ -12,6 +12,6 @@ drwxr-xr-x.  24 u0_a301 u0_a301   4096 Jun 25 23:30 libexec
 drwx------.  17 u0_a301 u0_a301  24576 Jun 11 05:33 opt
 drwxr-xr-x.   3 u0_a301 u0_a301   4096 Jun 22 15:16 sbin
 drwx------. 178 u0_a301 u0_a301   8192 Jun 25 23:59 share
-drwx------.  24 u0_a301 u0_a301  20480 Jun 26 00:47 tmp
+drwx------.  28 u0_a301 u0_a301  20480 Jun 26 01:25 tmp
 drwx------.  10 u0_a301 u0_a301   3452 Feb 20 16:17 var
 drwx------.   3 u0_a301 u0_a301   3452 Jun 24 00:09 x86_64-linux-android

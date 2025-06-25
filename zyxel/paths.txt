@@ -1,0 +1,4 @@
+echo $PATH
+/ffp/opt/java/jre/bin:/ffp/sbin:/ffp/bin:/usr/sbin:/sbin:/ffp/bin:/usr/bin:/bin:/ffp/home/root/go/bin:/usr/local/zy-pkgs/ffproot/ffp/home/root/.local/bin:/ffp/home/root/.local/bin
+echo $LD_LIBRARY_PATH
+/ffp/lib
