@@ -1,0 +1,17 @@
+total 581
+drwx------.   3 u0_a301 u0_a301   3452 Jul 26  2024 aarch64-linux-android
+drwx------.   3 u0_a301 u0_a301   3452 Jul 26  2024 arm-linux-androideabi
+drwxr-xr-x.   6 u0_a301 u0_a301 249856 Jun 25 23:09 bin
+drwx------.  52 u0_a301 u0_a301   8192 Jun 21 07:12 etc
+drwx------.  11 u0_a301 u0_a301   3452 Jun 25 23:20 glibc
+drwx------.   3 u0_a301 u0_a301   3452 Jun 24 00:09 i686-linux-android
+drwxr-xr-x. 312 u0_a301 u0_a301  53248 Jun 25 23:30 include
+-rw-------.   1 u0_a301 u0_a301      0 Jun 20 12:47 juju-wakatime-cli-config-mutex
+drwxr-xr-x.  99 u0_a301 u0_a301 512000 Jun 25 23:58 lib
+drwxr-xr-x.  24 u0_a301 u0_a301   4096 Jun 25 23:30 libexec
+drwx------.  17 u0_a301 u0_a301  24576 Jun 11 05:33 opt
+drwxr-xr-x.   3 u0_a301 u0_a301   4096 Jun 22 15:16 sbin
+drwx------. 178 u0_a301 u0_a301   8192 Jun 25 23:59 share
+drwx------.  23 u0_a301 u0_a301  20480 Jun 26 00:23 tmp
+drwx------.  10 u0_a301 u0_a301   3452 Feb 20 16:17 var
+drwx------.   3 u0_a301 u0_a301   3452 Jun 24 00:09 x86_64-linux-android

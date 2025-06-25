@@ -1,0 +1,5 @@
+total 14
+drwx------. 11 u0_a301 u0_a301 3452 Sep 25  2024 android-ndk-r27b
+drwxr-xr-x. 11 u0_a301 u0_a301 3452 May  4 14:17 android-ndk-r27c
+drwx------.  8 u0_a301 u0_a301 3452 May  4 13:47 android-sdk-9123335
+drwxr-xr-x.  3 u0_a301 u0_a301 3452 Jun 22 23:09 files

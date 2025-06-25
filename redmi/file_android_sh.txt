@@ -1,0 +1,1 @@
+/system/bin/sh: ELF 64-bit LSB pie executable, ARM aarch64, version 1 (SYSV), dynamically linked, interpreter /system/bin/linker64, for Android 33, BuildID[md5/uuid]=566346c28658a25251b9e84e0c113848, stripped

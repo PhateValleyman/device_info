@@ -1,0 +1,2 @@
+./collect-info.sh: line 25: ndk-build: command not found
+ndk-build not found

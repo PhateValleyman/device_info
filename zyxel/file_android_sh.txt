@@ -1,0 +1,1 @@
+/system/bin/sh: ERROR: cannot open `/system/bin/sh' (No such file or directory)

@@ -1,0 +1,7 @@
+Using built-in specs.
+COLLECT_GCC=clang
+COLLECT_LTO_WRAPPER=/usr/local/zy-pkgs/ffproot/ffp/bin/../libexec/gcc/arm-ffp-linux-uclibcgnueabi/4.9.2/lto-wrapper
+Target: arm-ffp-linux-uclibcgnueabi
+Configured with: /mnt/HD_a2/build/gcc-build/../gcc-4.9.2/configure --build=arm-ffp-linux-uclibcgnueabi --host=arm-ffp-linux-uclibcgnueabi --target=arm-ffp-linux-uclibcgnueabi --prefix=/ffp --with-local-prefix=/ffp --with-native-system-header-dir=/ffp/include --disable-nls --enable-shared --enable-languages=c,c++ --enable-__cxa_atexit --enable-threads=posix --disable-multilib --with-system-zlib --enable-clocale=gnu --enable-c99 --enable-long-long --disable-decimal-float --with-float=soft --disable-docs --enable-checking=release
+Thread model: posix
+gcc version 4.9.2 (GCC) 
