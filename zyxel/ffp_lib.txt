@@ -1,0 +1,1179 @@
+total 436300
+-rw-r--r--  1 root root      1024 May 22  2016 Scrt1.o
+drwxr-xr-x  3 root root      4096 Mar 13  2016 alsa-lib
+drwxr-xr-x  2 root root      4096 Sep 30  2024 awk
+drwxr-xr-x  2 root root      4096 Mar 11 20:36 bash
+-rw-r--r--  1 root root       222 Nov  3  2014 charset.alias
+drwxr-xr-x  4 root root      4096 May 28 04:51 cmake
+-rw-r--r--  1 root root       952 May 22  2016 crt1.o
+-rw-r--r--  1 root root      1489 May 22  2016 crti.o
+-rw-r--r--  1 root root       955 May 22  2016 crtn.o
+-rwxr-xr-x  1 root root      7116 Dec 28  2011 e2initrd_helper
+drwxr-sr-x  2 root root      4096 Sep 19  2024 engines
+drwxr-xr-x  2 root root      4096 May 28 08:27 engines-1.1
+drwxr-xr-x  2 root root      4096 May 28 04:52 engines-3
+drwxr-xr-x  2 root root      4096 Sep 30  2024 expect5.45
+-rwxr-xr-x  1 root root      5960 Sep 30  2024 fake_uname.so
+drwxr-xr-x  2 root root      4096 Dec 16  2011 findutils
+drwxr-xr-x  2 root root      4096 Oct  2  2024 firmware
+drwxr-xr-x  2 root root      4096 Sep 29  2024 gawk
+drwxr-xr-x  3 root root      4096 Nov  2  2014 gcc
+drwxr-xr-x  3 root root      4096 Jan 27  2012 gdbus-2.0
+drwxr-xr-x  2 root root      4096 Oct 10  2024 gettext
+drwxr-xr-x  3 root root      4096 Nov 25  2017 gio
+drwxr-xr-x  3 root root      4096 Nov 25  2017 glib-2.0
+drwxr-xr-x 11 root root      4096 Oct 20  2024 go
+drwxr-xr-x  4 root root      4096 Dec 17  2011 groff
+drwxr-xr-x  3 root root      4096 Feb 14  2017 icu
+drwxr-xr-x  2 root root      4096 Sep 30  2024 itcl4.0.1
+-rwxr-xr-x  1 root root     28892 Dec 22  2011 ld-uClibc-0.9.33-git.so
+-rwxr-xr-x  1 root root     28960 May 22  2016 ld-uClibc-0.9.33.3-git.so
+lrwxrwxrwx  1 root root        25 May 22  2016 ld-uClibc.so -> ld-uClibc-0.9.33.3-git.so
+lrwxrwxrwx  1 root root        25 May 22  2016 ld-uClibc.so.0 -> ld-uClibc-0.9.33.3-git.so
+drwxr-xr-x  2 root root      4096 Sep 30  2024 ldscripts
+-rw-r--r--  1 root root    384122 May 17  2017 libFLAC++.a
+-rwxr-xr-x  1 root root      1000 May 17  2017 libFLAC++.la
+lrwxrwxrwx  1 root root        18 May 17  2017 libFLAC++.so -> libFLAC++.so.6.3.0
+lrwxrwxrwx  1 root root        18 May 17  2017 libFLAC++.so.6 -> libFLAC++.so.6.3.0
+-rwxr-xr-x  1 root root    122168 May 17  2017 libFLAC++.so.6.3.0
+-rw-r--r--  1 root root   1366292 May 17  2017 libFLAC.a
+-rwxr-xr-x  1 root root       960 May 17  2017 libFLAC.la
+lrwxrwxrwx  1 root root        16 May 17  2017 libFLAC.so -> libFLAC.so.8.3.0
+lrwxrwxrwx  1 root root        16 May 17  2017 libFLAC.so.8 -> libFLAC.so.8.3.0
+-rwxr-xr-x  1 root root    360824 May 17  2017 libFLAC.so.8.3.0
+-rw-r--r--  1 root root    303112 Mar 12 00:38 libacl.a
+-rwxr-xr-x  1 root root      1015 Mar 12 00:38 libacl.la
+lrwxrwxrwx  1 root root        18 Mar 12 00:38 libacl.so -> libacl.so.1.1.2301
+lrwxrwxrwx  1 root root        18 Mar 12 00:38 libacl.so.1 -> libacl.so.1.1.2301
+-rwxr-xr-x  1 root root    153849 Mar 12 00:38 libacl.so.1.1.2301
+-rwxr-xr-x  1 root root      1004 Dec 28  2011 libarchive.la
+lrwxrwxrwx  1 root root        19 Dec 28  2011 libarchive.so -> libarchive.so.2.8.4
+lrwxrwxrwx  1 root root        19 Dec 28  2011 libarchive.so.2 -> libarchive.so.2.8.4
+-rwxr-xr-x  1 root root    273437 Dec 28  2011 libarchive.so.2.8.4
+-rw-r--r--  1 root root   2283464 Nov  2  2014 libasan.a
+-rwxr-xr-x  1 root root       973 Nov  2  2014 libasan.la
+lrwxrwxrwx  1 root root        16 Nov  2  2014 libasan.so -> libasan.so.1.0.0
+lrwxrwxrwx  1 root root        16 Nov  2  2014 libasan.so.1 -> libasan.so.1.0.0
+-rwxr-xr-x  1 root root   1119148 Nov  2  2014 libasan.so.1.0.0
+-rw-r--r--  1 root root      2608 Nov  2  2014 libasan_preinit.o
+-rwxr-xr-x  1 root root       944 Mar 13  2016 libasound.la
+lrwxrwxrwx  1 root root        18 Mar 13  2016 libasound.so -> libasound.so.2.0.0
+lrwxrwxrwx  1 root root        18 Mar 13  2016 libasound.so.2 -> libasound.so.2.0.0
+-rwxr-xr-x  1 root root   1077076 Mar 13  2016 libasound.so.2.0.0
+-rw-r--r--  1 root root    126090 Apr 30 21:32 libasprintf.a
+-rwxr-xr-x  1 root root       960 Apr 30 21:32 libasprintf.la
+lrwxrwxrwx  1 root root        20 Apr 30 21:32 libasprintf.so -> libasprintf.so.0.0.0
+lrwxrwxrwx  1 root root        20 Apr 30 21:32 libasprintf.so.0 -> libasprintf.so.0.0.0
+-rwxr-xr-x  1 root root     85555 Apr 30 21:32 libasprintf.so.0.0.0
+-rw-r--r--  1 root root    966222 May 21  2017 libass.a
+-rwxr-xr-x  1 root root      1251 May 21  2017 libass.la
+lrwxrwxrwx  1 root root        15 May 21  2017 libass.so -> libass.so.9.0.0
+lrwxrwxrwx  1 root root        15 May 21  2017 libass.so.9 -> libass.so.9.0.0
+-rwxr-xr-x  1 root root    180107 May 21  2017 libass.so.9.0.0
+-rw-r--r--  1 root root    106666 Nov  4  2016 libassuan.a
+-rwxr-xr-x  1 root root       976 Nov  4  2016 libassuan.la
+lrwxrwxrwx  1 root root        18 Nov  4  2016 libassuan.so -> libassuan.so.0.7.3
+lrwxrwxrwx  1 root root        18 Nov  4  2016 libassuan.so.0 -> libassuan.so.0.7.3
+-rwxr-xr-x  1 root root     75697 Nov  4  2016 libassuan.so.0.7.3
+-rw-r--r--  1 root root    244566 Nov  2  2014 libatomic.a
+-rwxr-xr-x  1 root root       953 Nov  2  2014 libatomic.la
+lrwxrwxrwx  1 root root        18 Nov  2  2014 libatomic.so -> libatomic.so.1.1.0
+lrwxrwxrwx  1 root root        18 Nov  2  2014 libatomic.so.1 -> libatomic.so.1.1.0
+-rwxr-xr-x  1 root root     32848 Nov  2  2014 libatomic.so.1.1.0
+-rw-r--r--  1 root root     69686 Mar 12 00:27 libattr.a
+-rwxr-xr-x  1 root root      1002 Mar 12 00:27 libattr.la
+lrwxrwxrwx  1 root root        19 Mar 12 00:27 libattr.so -> libattr.so.1.1.2502
+lrwxrwxrwx  1 root root        19 Mar 12 00:27 libattr.so.1 -> libattr.so.1.1.2502
+-rwxr-xr-x  1 root root     56491 Mar 12 00:27 libattr.so.1.1.2502
+lrwxrwxrwx  1 root root        23 May 24  2017 libavcodec.so -> libavcodec.so.57.89.100
+lrwxrwxrwx  1 root root        23 May 24  2017 libavcodec.so.57 -> libavcodec.so.57.89.100
+-rwxr-xr-x  1 root root  11444355 May 24  2017 libavcodec.so.57.89.100
+lrwxrwxrwx  1 root root        23 May 24  2017 libavdevice.so -> libavdevice.so.57.6.100
+lrwxrwxrwx  1 root root        23 May 24  2017 libavdevice.so.57 -> libavdevice.so.57.6.100
+-rwxr-xr-x  1 root root     90220 May 24  2017 libavdevice.so.57.6.100
+lrwxrwxrwx  1 root root        23 May 24  2017 libavfilter.so -> libavfilter.so.6.82.100
+lrwxrwxrwx  1 root root        23 May 24  2017 libavfilter.so.6 -> libavfilter.so.6.82.100
+-rwxr-xr-x  1 root root   2164253 May 24  2017 libavfilter.so.6.82.100
+lrwxrwxrwx  1 root root        24 May 24  2017 libavformat.so -> libavformat.so.57.71.100
+lrwxrwxrwx  1 root root        24 May 24  2017 libavformat.so.57 -> libavformat.so.57.71.100
+-rwxr-xr-x  1 root root   2216189 May 24  2017 libavformat.so.57.71.100
+lrwxrwxrwx  1 root root        22 May 24  2017 libavresample.so -> libavresample.so.3.5.0
+lrwxrwxrwx  1 root root        22 May 24  2017 libavresample.so.3 -> libavresample.so.3.5.0
+-rwxr-xr-x  1 root root     82335 May 24  2017 libavresample.so.3.5.0
+lrwxrwxrwx  1 root root        22 May 24  2017 libavutil.so -> libavutil.so.55.58.100
+lrwxrwxrwx  1 root root        22 May 24  2017 libavutil.so.55 -> libavutil.so.55.58.100
+-rwxr-xr-x  1 root root    515090 May 24  2017 libavutil.so.55.58.100
+-rwxr-xr-x  1 root root    742864 Oct  6  2014 libbfd-2.24.so
+-rwxr-xr-x  1 root root   4547698 Dec 16  2024 libbfd-2.43.1.so
+-rw-r--r--  1 root root   9563286 Dec 16  2024 libbfd.a
+-rwxr-xr-x  1 root root      1232 Dec 16  2024 libbfd.la
+lrwxrwxrwx  1 root root        16 Dec 16  2024 libbfd.so -> libbfd-2.43.1.so
+-rw-r--r--  1 root root    469256 Oct 21  2016 libblkid.a
+-rwxr-xr-x  1 root root       948 Oct 21  2016 libblkid.la
+lrwxrwxrwx  1 root root        17 Oct 21  2016 libblkid.so -> libblkid.so.1.1.0
+lrwxrwxrwx  1 root root        17 Oct 21  2016 libblkid.so.1 -> libblkid.so.1.1.0
+-rwxr-xr-x  1 root root    289613 Oct 21  2016 libblkid.so.1.1.0
+lrwxrwxrwx  1 root root        25 Feb 21  2017 libboost_atomic.so -> libboost_atomic.so.1.63.0
+-rwxr-xr-x  1 root root      8618 Feb 21  2017 libboost_atomic.so.1.63.0
+-rw-r--r--  1 root root    111214 Feb 21  2017 libboost_chrono.a
+lrwxrwxrwx  1 root root        25 Feb 21  2017 libboost_chrono.so -> libboost_chrono.so.1.63.0
+-rwxr-xr-x  1 root root     43080 Feb 21  2017 libboost_chrono.so.1.63.0
+lrwxrwxrwx  1 root root        28 Feb 21  2017 libboost_container.so -> libboost_container.so.1.63.0
+-rwxr-xr-x  1 root root    113141 Feb 21  2017 libboost_container.so.1.63.0
+lrwxrwxrwx  1 root root        26 Feb 21  2017 libboost_context.so -> libboost_context.so.1.63.0
+-rwxr-xr-x  1 root root     63908 Feb 21  2017 libboost_context.so.1.63.0
+lrwxrwxrwx  1 root root        28 Feb 21  2017 libboost_coroutine.so -> libboost_coroutine.so.1.63.0
+-rwxr-xr-x  1 root root     67823 Feb 21  2017 libboost_coroutine.so.1.63.0
+lrwxrwxrwx  1 root root        28 Feb 21  2017 libboost_date_time.so -> libboost_date_time.so.1.63.0
+-rwxr-xr-x  1 root root     98537 Feb 21  2017 libboost_date_time.so.1.63.0
+-rw-r--r--  1 root root      1442 Feb 21  2017 libboost_exception.a
+lrwxrwxrwx  1 root root        29 Feb 21  2017 libboost_filesystem.so -> libboost_filesystem.so.1.63.0
+-rwxr-xr-x  1 root root    132213 Feb 21  2017 libboost_filesystem.so.1.63.0
+lrwxrwxrwx  1 root root        24 Feb 21  2017 libboost_graph.so -> libboost_graph.so.1.63.0
+-rwxr-xr-x  1 root root    431932 Feb 21  2017 libboost_graph.so.1.63.0
+lrwxrwxrwx  1 root root        33 Feb 21  2017 libboost_graph_parallel.so -> libboost_graph_parallel.so.1.63.0
+-rwxr-xr-x  1 root root    244899 Feb 21  2017 libboost_graph_parallel.so.1.63.0
+lrwxrwxrwx  1 root root        28 Feb 21  2017 libboost_iostreams.so -> libboost_iostreams.so.1.63.0
+-rwxr-xr-x  1 root root    136472 Feb 21  2017 libboost_iostreams.so.1.63.0
+lrwxrwxrwx  1 root root        25 Feb 21  2017 libboost_locale.so -> libboost_locale.so.1.63.0
+-rwxr-xr-x  1 root root   1017871 Feb 21  2017 libboost_locale.so.1.63.0
+lrwxrwxrwx  1 root root        22 Feb 21  2017 libboost_log.so -> libboost_log.so.1.63.0
+-rwxr-xr-x  1 root root   1133738 Feb 21  2017 libboost_log.so.1.63.0
+lrwxrwxrwx  1 root root        28 Feb 21  2017 libboost_log_setup.so -> libboost_log_setup.so.1.63.0
+-rwxr-xr-x  1 root root   1020583 Feb 21  2017 libboost_log_setup.so.1.63.0
+lrwxrwxrwx  1 root root        27 Feb 21  2017 libboost_math_c99.so -> libboost_math_c99.so.1.63.0
+-rwxr-xr-x  1 root root    104240 Feb 21  2017 libboost_math_c99.so.1.63.0
+lrwxrwxrwx  1 root root        28 Feb 21  2017 libboost_math_c99f.so -> libboost_math_c99f.so.1.63.0
+-rwxr-xr-x  1 root root     94990 Feb 21  2017 libboost_math_c99f.so.1.63.0
+lrwxrwxrwx  1 root root        28 Feb 21  2017 libboost_math_c99l.so -> libboost_math_c99l.so.1.63.0
+-rwxr-xr-x  1 root root    100314 Feb 21  2017 libboost_math_c99l.so.1.63.0
+lrwxrwxrwx  1 root root        27 Feb 21  2017 libboost_math_tr1.so -> libboost_math_tr1.so.1.63.0
+-rwxr-xr-x  1 root root    461623 Feb 21  2017 libboost_math_tr1.so.1.63.0
+lrwxrwxrwx  1 root root        28 Feb 21  2017 libboost_math_tr1f.so -> libboost_math_tr1f.so.1.63.0
+-rwxr-xr-x  1 root root    486241 Feb 21  2017 libboost_math_tr1f.so.1.63.0
+lrwxrwxrwx  1 root root        28 Feb 21  2017 libboost_math_tr1l.so -> libboost_math_tr1l.so.1.63.0
+-rwxr-xr-x  1 root root    466082 Feb 21  2017 libboost_math_tr1l.so.1.63.0
+lrwxrwxrwx  1 root root        22 Feb 21  2017 libboost_mpi.so -> libboost_mpi.so.1.63.0
+-rwxr-xr-x  1 root root    176742 Feb 21  2017 libboost_mpi.so.1.63.0
+lrwxrwxrwx  1 root root        29 Feb 21  2017 libboost_mpi_python.so -> libboost_mpi_python.so.1.63.0
+-rwxr-xr-x  1 root root     23878 Feb 21  2017 libboost_mpi_python.so.1.63.0
+lrwxrwxrwx  1 root root        35 Feb 21  2017 libboost_prg_exec_monitor.so -> libboost_prg_exec_monitor.so.1.63.0
+-rwxr-xr-x  1 root root     87473 Feb 21  2017 libboost_prg_exec_monitor.so.1.63.0
+lrwxrwxrwx  1 root root        34 Feb 21  2017 libboost_program_options.so -> libboost_program_options.so.1.63.0
+-rwxr-xr-x  1 root root    574753 Feb 21  2017 libboost_program_options.so.1.63.0
+lrwxrwxrwx  1 root root        25 Feb 21  2017 libboost_python.so -> libboost_python.so.1.63.0
+-rwxr-xr-x  1 root root    369093 Feb 21  2017 libboost_python.so.1.63.0
+lrwxrwxrwx  1 root root        25 Feb 21  2017 libboost_random.so -> libboost_random.so.1.63.0
+-rwxr-xr-x  1 root root     37731 Feb 21  2017 libboost_random.so.1.63.0
+lrwxrwxrwx  1 root root        24 Feb 21  2017 libboost_regex.so -> libboost_regex.so.1.63.0
+-rwxr-xr-x  1 root root   1280237 Feb 21  2017 libboost_regex.so.1.63.0
+lrwxrwxrwx  1 root root        32 Feb 21  2017 libboost_serialization.so -> libboost_serialization.so.1.63.0
+-rwxr-xr-x  1 root root    433068 Feb 21  2017 libboost_serialization.so.1.63.0
+lrwxrwxrwx  1 root root        26 Feb 21  2017 libboost_signals.so -> libboost_signals.so.1.63.0
+-rwxr-xr-x  1 root root    159754 Feb 21  2017 libboost_signals.so.1.63.0
+-rw-r--r--  1 root root     13458 Feb 21  2017 libboost_system.a
+lrwxrwxrwx  1 root root        25 Feb 21  2017 libboost_system.so -> libboost_system.so.1.63.0
+-rwxr-xr-x  1 root root     15246 Feb 21  2017 libboost_system.so.1.63.0
+-rw-r--r--  1 root root   2282588 Feb 21  2017 libboost_test_exec_monitor.a
+lrwxrwxrwx  1 root root        25 Feb 21  2017 libboost_thread.so -> libboost_thread.so.1.63.0
+-rwxr-xr-x  1 root root    188344 Feb 21  2017 libboost_thread.so.1.63.0
+-rw-r--r--  1 root root     16132 Feb 21  2017 libboost_timer.a
+lrwxrwxrwx  1 root root        24 Feb 21  2017 libboost_timer.so -> libboost_timer.so.1.63.0
+-rwxr-xr-x  1 root root     27589 Feb 21  2017 libboost_timer.so.1.63.0
+lrwxrwxrwx  1 root root        31 Feb 21  2017 libboost_type_erasure.so -> libboost_type_erasure.so.1.63.0
+-rwxr-xr-x  1 root root     81069 Feb 21  2017 libboost_type_erasure.so.1.63.0
+-rw-r--r--  1 root root   2248442 Feb 21  2017 libboost_unit_test_framework.a
+lrwxrwxrwx  1 root root        38 Feb 21  2017 libboost_unit_test_framework.so -> libboost_unit_test_framework.so.1.63.0
+-rwxr-xr-x  1 root root    968638 Feb 21  2017 libboost_unit_test_framework.so.1.63.0
+lrwxrwxrwx  1 root root        23 Feb 21  2017 libboost_wave.so -> libboost_wave.so.1.63.0
+-rwxr-xr-x  1 root root   1765618 Feb 21  2017 libboost_wave.so.1.63.0
+lrwxrwxrwx  1 root root        33 Feb 21  2017 libboost_wserialization.so -> libboost_wserialization.so.1.63.0
+-rwxr-xr-x  1 root root    311599 Feb 21  2017 libboost_wserialization.so.1.63.0
+-rw-r--r--  1 root root    198038 Dec 14  2011 libbz2.a
+lrwxrwxrwx  1 root root        15 Dec 14  2011 libbz2.so -> libbz2.so.1.0.6
+lrwxrwxrwx  1 root root        15 Dec 14  2011 libbz2.so.1.0 -> libbz2.so.1.0.6
+-rwxr-xr-x  1 root root     76723 Dec 14  2011 libbz2.so.1.0.6
+-rw-r--r--  1 root root   1386586 May 22  2016 libc.a
+-rwxr-xr-x  1 root root       269 May 22  2016 libc.so
+lrwxrwxrwx  1 root root        25 May 22  2016 libc.so.0 -> libuClibc-0.9.33.3-git.so
+lrwxrwxrwx  1 root root         6 May 22  2016 libc_pic.a -> libc.a
+-rw-r--r--  1 root root     65556 Nov  8  2017 libcap.a
+lrwxrwxrwx  1 root root        11 Nov  8  2017 libcap.so -> libcap.so.2
+lrwxrwxrwx  1 root root        14 Nov  8  2017 libcap.so.2 -> libcap.so.2.25
+-rw-r--r--  1 root root     17964 Nov 22  2017 libcap.so.2.25
+-rw-r--r--  1 root root    117316 Feb 23  2017 libcares.a
+-rwxr-xr-x  1 root root       934 Feb 23  2017 libcares.la
+lrwxrwxrwx  1 root root        17 Feb 23  2017 libcares.so -> libcares.so.2.2.0
+lrwxrwxrwx  1 root root        17 Feb 23  2017 libcares.so.2 -> libcares.so.2.2.0
+-rwxr-xr-x  1 root root     70358 Feb 23  2017 libcares.so.2.2.0
+-rw-r--r--  1 root root      2284 Oct  9  2024 libcharset.a
+-rwxr-xr-x  1 root root       961 Oct  9  2024 libcharset.la
+lrwxrwxrwx  1 root root        19 Oct  9  2024 libcharset.so -> libcharset.so.1.0.0
+lrwxrwxrwx  1 root root        19 Oct  9  2024 libcharset.so.1 -> libcharset.so.1.0.0
+-rwxr-xr-x  1 root root      5606 Oct  9  2024 libcharset.so.1.0.0
+-rw-r--r--  1 root root     50394 Oct  4  2014 libcheck.a
+-rwxr-xr-x  1 root root       969 Oct  4  2014 libcheck.la
+lrwxrwxrwx  1 root root        17 Oct  4  2014 libcheck.so -> libcheck.so.0.0.0
+lrwxrwxrwx  1 root root        17 Oct  4  2014 libcheck.so.0 -> libcheck.so.0.0.0
+-rwxr-xr-x  1 root root     43528 Oct  4  2014 libcheck.so.0.0.0
+-r--r--r--  1 root root     35416 Dec 28  2011 libcom_err.a
+lrwxrwxrwx  1 root root        15 Dec 28  2011 libcom_err.so -> libcom_err.so.2
+lrwxrwxrwx  1 root root        17 Dec 28  2011 libcom_err.so.2 -> libcom_err.so.2.1
+-rwxr-xr-x  1 root root     13097 Dec 28  2011 libcom_err.so.2.1
+-rwxr-xr-x  1 root root      9892 Dec 22  2011 libcrypt-0.9.33-git.so
+-rwxr-xr-x  1 root root     21632 May 22  2016 libcrypt-0.9.33.3-git.so
+-rw-r--r--  1 root root     29508 May 22  2016 libcrypt.a
+lrwxrwxrwx  1 root root        24 May 22  2016 libcrypt.so -> libcrypt-0.9.33.3-git.so
+lrwxrwxrwx  1 root root        24 May 22  2016 libcrypt.so.0 -> libcrypt-0.9.33.3-git.so
+lrwxrwxrwx  1 root root        10 May 22  2016 libcrypt_pic.a -> libcrypt.a
+-rw-r--r--  1 root root   3925944 May 28 08:27 libcrypto.a
+lrwxrwxrwx  1 root root        16 May 28 08:27 libcrypto.so -> libcrypto.so.1.1
+lrwxrwxrwx  1 root root        16 Jan 15 18:30 libcrypto.so.0 -> libcrypto.so.1.1
+-rwxr-xr-x  1 root root   1835640 May 26  2017 libcrypto.so.1.0.0
+-rwxr-xr-x  1 root root   2726489 May 28 08:27 libcrypto.so.1.1
+-rwxr-xr-x  1 root root   5019870 May 28 04:51 libcrypto.so.3
+-rw-r--r--  1 root root    591616 Nov 21  2016 libcurl.a
+-rwxr-xr-x  1 root root       955 Nov 21  2016 libcurl.la
+lrwxrwxrwx  1 root root        16 Nov 21  2016 libcurl.so -> libcurl.so.4.4.0
+lrwxrwxrwx  1 root root        16 Nov 21  2016 libcurl.so.4 -> libcurl.so.4.4.0
+-rwxr-xr-x  1 root root    402817 Nov 21  2016 libcurl.so.4.4.0
+lrwxrwxrwx  1 root root        12 Dec 24  2024 libcurses.a -> libncurses.a
+lrwxrwxrwx  1 root root        13 Dec 24  2024 libcurses.so -> libncurses.so
+lrwxrwxrwx  1 root root        13 Dec 24  2024 libcursesw.a -> libncursesw.a
+lrwxrwxrwx  1 root root        21 Oct  2  2024 libcursesw.so -> /ffp/lib/libcurses.so
+-rw-r--r--  1 root root   1218170 Dec 12  2016 libdb-5.3.a
+-rwxr-xr-x  1 root root       934 Dec 12  2016 libdb-5.3.la
+-rwxr-xr-x  1 root root    882879 Dec 12  2016 libdb-5.3.so
+lrwxrwxrwx  1 root root        12 Dec 12  2016 libdb-5.so -> libdb-5.3.so
+-rw-r--r--  1 root root   1218170 Dec 12  2016 libdb.a
+lrwxrwxrwx  1 root root        12 Dec 12  2016 libdb.so -> libdb-5.3.so
+-rw-r--r--  1 root root   1485412 Dec 12  2016 libdb_cxx-5.3.a
+-rwxr-xr-x  1 root root       973 Dec 12  2016 libdb_cxx-5.3.la
+-rwxr-xr-x  1 root root   1051595 Dec 12  2016 libdb_cxx-5.3.so
+lrwxrwxrwx  1 root root        16 Dec 12  2016 libdb_cxx-5.so -> libdb_cxx-5.3.so
+-rw-r--r--  1 root root   1485412 Dec 12  2016 libdb_cxx.a
+lrwxrwxrwx  1 root root        16 Dec 12  2016 libdb_cxx.so -> libdb_cxx-5.3.so
+-rw-r--r--  1 root root   1354712 Dec 12  2016 libdb_tcl-5.3.a
+-rwxr-xr-x  1 root root       963 Dec 12  2016 libdb_tcl-5.3.la
+-rwxr-xr-x  1 root root    986141 Dec 12  2016 libdb_tcl-5.3.so
+lrwxrwxrwx  1 root root        16 Dec 12  2016 libdb_tcl-5.so -> libdb_tcl-5.3.so
+-rw-r--r--  1 root root   1354712 Dec 12  2016 libdb_tcl.a
+lrwxrwxrwx  1 root root        16 Dec 12  2016 libdb_tcl.so -> libdb_tcl-5.3.so
+-rwxr-xr-x  1 root root      9456 Dec 22  2011 libdl-0.9.33-git.so
+-rwxr-xr-x  1 root root      9960 May 22  2016 libdl-0.9.33.3-git.so
+-rw-r--r--  1 root root     24310 May 22  2016 libdl.a
+lrwxrwxrwx  1 root root        21 May 22  2016 libdl.so -> libdl-0.9.33.3-git.so
+lrwxrwxrwx  1 root root        21 May 22  2016 libdl.so.0 -> libdl-0.9.33.3-git.so
+lrwxrwxrwx  1 root root         7 May 22  2016 libdl_pic.a -> libdl.a
+-rw-r--r--  1 root root    284262 Apr 11  2016 libdvbv5.a
+-rwxr-xr-x  1 root root       977 Apr 11  2016 libdvbv5.la
+lrwxrwxrwx  1 root root        17 Apr 11  2016 libdvbv5.so -> libdvbv5.so.0.0.0
+lrwxrwxrwx  1 root root        17 Apr 11  2016 libdvbv5.so.0 -> libdvbv5.so.0.0.0
+-rwxr-xr-x  1 root root    209920 Apr 11  2016 libdvbv5.so.0.0.0
+-r--r--r--  1 root root    120902 Dec 28  2011 libe2p.a
+lrwxrwxrwx  1 root root        11 Dec 28  2011 libe2p.so -> libe2p.so.2
+lrwxrwxrwx  1 root root        13 Dec 28  2011 libe2p.so.2 -> libe2p.so.2.3
+-rwxr-xr-x  1 root root     28590 Dec 28  2011 libe2p.so.2.3
+lrwxrwxrwx  1 root root        21 Nov  6  2014 libevent-2.0.so.5 -> libevent-2.0.so.5.1.9
+-rwxr-xr-x  1 root root    325383 Nov  6  2014 libevent-2.0.so.5.1.9
+-rw-r--r--  1 root root    388758 Nov  6  2014 libevent.a
+-rwxr-xr-x  1 root root       950 Nov  6  2014 libevent.la
+lrwxrwxrwx  1 root root        21 Nov  6  2014 libevent.so -> libevent-2.0.so.5.1.9
+lrwxrwxrwx  1 root root        26 Nov  6  2014 libevent_core-2.0.so.5 -> libevent_core-2.0.so.5.1.9
+-rwxr-xr-x  1 root root    190592 Nov  6  2014 libevent_core-2.0.so.5.1.9
+-rw-r--r--  1 root root    224342 Nov  6  2014 libevent_core.a
+-rwxr-xr-x  1 root root       985 Nov  6  2014 libevent_core.la
+lrwxrwxrwx  1 root root        26 Nov  6  2014 libevent_core.so -> libevent_core-2.0.so.5.1.9
+lrwxrwxrwx  1 root root        27 Nov  6  2014 libevent_extra-2.0.so.5 -> libevent_extra-2.0.so.5.1.9
+-rwxr-xr-x  1 root root    150429 Nov  6  2014 libevent_extra-2.0.so.5.1.9
+-rw-r--r--  1 root root    164488 Nov  6  2014 libevent_extra.a
+-rwxr-xr-x  1 root root       992 Nov  6  2014 libevent_extra.la
+lrwxrwxrwx  1 root root        27 Nov  6  2014 libevent_extra.so -> libevent_extra-2.0.so.5.1.9
+lrwxrwxrwx  1 root root        29 Nov  6  2014 libevent_openssl-2.0.so.5 -> libevent_openssl-2.0.so.5.1.9
+-rwxr-xr-x  1 root root     24727 Nov  6  2014 libevent_openssl-2.0.so.5.1.9
+-rw-r--r--  1 root root     18008 Nov  6  2014 libevent_openssl.a
+-rwxr-xr-x  1 root root      1021 Nov  6  2014 libevent_openssl.la
+lrwxrwxrwx  1 root root        29 Nov  6  2014 libevent_openssl.so -> libevent_openssl-2.0.so.5.1.9
+lrwxrwxrwx  1 root root        30 Nov  6  2014 libevent_pthreads-2.0.so.5 -> libevent_pthreads-2.0.so.5.1.9
+-rwxr-xr-x  1 root root      8468 Nov  6  2014 libevent_pthreads-2.0.so.5.1.9
+-rw-r--r--  1 root root      3326 Nov  6  2014 libevent_pthreads.a
+-rwxr-xr-x  1 root root      1013 Nov  6  2014 libevent_pthreads.la
+lrwxrwxrwx  1 root root        30 Nov  6  2014 libevent_pthreads.so -> libevent_pthreads-2.0.so.5.1.9
+-rw-r--r--  1 root root    564990 Jan 13  2012 libexif.a
+-rwxr-xr-x  1 root root       956 Jan 13  2012 libexif.la
+lrwxrwxrwx  1 root root        17 Jan 13  2012 libexif.so -> libexif.so.12.3.2
+lrwxrwxrwx  1 root root        17 Jan 13  2012 libexif.so.12 -> libexif.so.12.3.2
+-rwxr-xr-x  1 root root    216662 Jan 13  2012 libexif.so.12.3.2
+-rw-r--r--  1 root root    202032 Nov  3  2014 libexpat.a
+-rwxr-xr-x  1 root root       947 Nov  3  2014 libexpat.la
+lrwxrwxrwx  1 root root        17 Nov  3  2014 libexpat.so -> libexpat.so.1.6.0
+lrwxrwxrwx  1 root root        17 Nov  3  2014 libexpat.so.1 -> libexpat.so.1.6.0
+-rwxr-xr-x  1 root root    157518 Dec 16  2011 libexpat.so.1.5.2
+-rwxr-xr-x  1 root root    150855 Nov  3  2014 libexpat.so.1.6.0
+lrwxrwxrwx  1 root root        27 Oct  4  2014 libexpect.so.0 -> expect5.45/libexpect5.45.so
+lrwxrwxrwx  1 root root        27 Oct  4  2014 libexpect5.45.so -> expect5.45/libexpect5.45.so
+-r--r--r--  1 root root   1221076 Dec 28  2011 libext2fs.a
+lrwxrwxrwx  1 root root        14 Dec 28  2011 libext2fs.so -> libext2fs.so.2
+lrwxrwxrwx  1 root root        16 Dec 28  2011 libext2fs.so.2 -> libext2fs.so.2.4
+-rwxr-xr-x  1 root root    198274 Dec 28  2011 libext2fs.so.2.4
+-rw-r--r--  1 root root    506534 Oct 21  2016 libfdisk.a
+-rwxr-xr-x  1 root root       969 Oct 21  2016 libfdisk.la
+lrwxrwxrwx  1 root root        17 Oct 21  2016 libfdisk.so -> libfdisk.so.1.1.0
+lrwxrwxrwx  1 root root        17 Oct 21  2016 libfdisk.so.1 -> libfdisk.so.1.1.0
+-rwxr-xr-x  1 root root    404500 Oct 21  2016 libfdisk.so.1.1.0
+-rw-r--r--  1 root root     26692 Feb 13  2017 libffi.a
+-rwxr-xr-x  1 root root       904 Feb 13  2017 libffi.la
+lrwxrwxrwx  1 root root        15 Feb 13  2017 libffi.so -> libffi.so.6.0.4
+lrwxrwxrwx  1 root root        15 Feb 13  2017 libffi.so.6 -> libffi.so.6.0.4
+-rwxr-xr-x  1 root root     22258 Feb 13  2017 libffi.so.6.0.4
+-rw-r--r--  1 root root      1948 Sep 24  2014 libfl.a
+-rwxr-xr-x  1 root root       934 Sep 24  2014 libfl.la
+lrwxrwxrwx  1 root root        14 Sep 24  2014 libfl.so -> libfl.so.2.0.0
+lrwxrwxrwx  1 root root        14 Sep 24  2014 libfl.so.2 -> libfl.so.2.0.0
+-rwxr-xr-x  1 root root      5356 Sep 24  2014 libfl.so.2.0.0
+-rw-r--r--  1 root root      1948 Sep 24  2014 libfl_pic.a
+-rwxr-xr-x  1 root root       962 Sep 24  2014 libfl_pic.la
+lrwxrwxrwx  1 root root        18 Sep 24  2014 libfl_pic.so -> libfl_pic.so.2.0.0
+lrwxrwxrwx  1 root root        18 Sep 24  2014 libfl_pic.so.2 -> libfl_pic.so.2.0.0
+-rwxr-xr-x  1 root root      5360 Sep 24  2014 libfl_pic.so.2.0.0
+-rw-r--r--  1 root root   1126668 May 20  2017 libfontconfig.a
+-rwxr-xr-x  1 root root      1053 May 20  2017 libfontconfig.la
+lrwxrwxrwx  1 root root        22 May 20  2017 libfontconfig.so -> libfontconfig.so.1.9.2
+lrwxrwxrwx  1 root root        22 May 20  2017 libfontconfig.so.1 -> libfontconfig.so.1.9.2
+-rwxr-xr-x  1 root root    278274 May 20  2017 libfontconfig.so.1.9.2
+lrwxrwxrwx  1 root root        10 Mar 28 05:15 libform.a -> libformw.a
+lrwxrwxrwx  1 root root        11 Mar 28 05:15 libform.so -> libformw.so
+lrwxrwxrwx  1 root root        12 Mar 28 05:19 libform.so.5 -> libform.so.6
+lrwxrwxrwx  1 root root        14 Mar 28 05:19 libform.so.5.9 -> libform.so.6.5
+lrwxrwxrwx  1 root root        13 Mar 28 05:15 libform.so.6 -> libformw.so.6
+lrwxrwxrwx  1 root root        15 Mar 28 05:15 libform.so.6.5 -> libformw.so.6.5
+-rw-r--r--  1 root root    103400 Mar 28 05:15 libformw.a
+-rwxr-xr-x  1 root root       951 Oct  1  2024 libformw.la
+lrwxrwxrwx  1 root root        13 Mar 28 05:15 libformw.so -> libformw.so.6
+lrwxrwxrwx  1 root root        17 Apr 30 21:32 libformw.so.6 -> libformw.so.6.5.0
+-rwxr-xr-x  1 root root     71931 Mar 28 05:16 libformw.so.6.5
+-rwxr-xr-x  1 root root     69795 Oct  1  2024 libformw.so.6.5.0
+-rw-r--r--  1 root root   4428432 May 19  2017 libfreetype.a
+-rwxr-xr-x  1 root root       987 May 19  2017 libfreetype.la
+lrwxrwxrwx  1 root root        21 May 19  2017 libfreetype.so -> libfreetype.so.6.14.0
+lrwxrwxrwx  1 root root        21 May 19  2017 libfreetype.so.6 -> libfreetype.so.6.14.0
+-rwxr-xr-x  1 root root    667355 May 19  2017 libfreetype.so.6.14.0
+-rw-r--r--  1 root root    244600 May 19  2017 libfribidi.a
+-rwxr-xr-x  1 root root      1072 May 19  2017 libfribidi.la
+lrwxrwxrwx  1 root root        19 May 19  2017 libfribidi.so -> libfribidi.so.0.3.6
+lrwxrwxrwx  1 root root        19 May 19  2017 libfribidi.so.0 -> libfribidi.so.0.3.6
+-rwxr-xr-x  1 root root     99441 May 19  2017 libfribidi.so.0.3.6
+-rw-r--r--  1 root root    197002 Mar 22  2012 libfuse.a
+-rwxr-xr-x  1 root root       967 Mar 22  2012 libfuse.la
+lrwxrwxrwx  1 root root        16 Mar 22  2012 libfuse.so -> libfuse.so.2.8.7
+lrwxrwxrwx  1 root root        16 Mar 22  2012 libfuse.so.2 -> libfuse.so.2.8.7
+-rwxr-xr-x  1 root root    148008 Mar 22  2012 libfuse.so.2.8.7
+-rwxr-xr-x  1 root root       132 Nov  2  2014 libgcc_s.so
+-rwxr-xr-x  1 root root    200965 Nov  2  2014 libgcc_s.so.1
+-rw-r--r--  1 root root   1204542 Dec  9  2016 libgcrypt.a
+-rwxr-xr-x  1 root root       980 Dec  9  2016 libgcrypt.la
+lrwxrwxrwx  1 root root        19 Dec  9  2016 libgcrypt.so -> libgcrypt.so.20.1.3
+lrwxrwxrwx  1 root root        19 Dec  9  2016 libgcrypt.so.0 -> libgcrypt.so.20.1.3
+lrwxrwxrwx  1 root root        19 Dec  9  2016 libgcrypt.so.11 -> libgcrypt.so.20.1.3
+lrwxrwxrwx  1 root root        19 Dec  9  2016 libgcrypt.so.20 -> libgcrypt.so.20.1.3
+-rwxr-xr-x  1 root root    915022 Dec  9  2016 libgcrypt.so.20.1.3
+-rw-r--r--  1 root root     73104 Dec 12  2016 libgdbm.a
+-rwxr-xr-x  1 root root       978 Dec 12  2016 libgdbm.la
+lrwxrwxrwx  1 root root        16 Dec 12  2016 libgdbm.so -> libgdbm.so.4.0.0
+lrwxrwxrwx  1 root root        16 Dec 12  2016 libgdbm.so.4 -> libgdbm.so.4.0.0
+-rwxr-xr-x  1 root root     47702 Dec 12  2016 libgdbm.so.4.0.0
+-rw-r--r--  1 root root     18744 Dec 12  2016 libgdbm_compat.a
+-rwxr-xr-x  1 root root      1047 Dec 12  2016 libgdbm_compat.la
+lrwxrwxrwx  1 root root        23 Dec 12  2016 libgdbm_compat.so -> libgdbm_compat.so.4.0.0
+lrwxrwxrwx  1 root root        23 Dec 12  2016 libgdbm_compat.so.4 -> libgdbm_compat.so.4.0.0
+-rwxr-xr-x  1 root root     11158 Dec 12  2016 libgdbm_compat.so.4.0.0
+-rwxr-xr-x  1 root root   1246452 Jan 12  2012 libgettextlib-0.18.1.so
+-rwxr-xr-x  1 root root   1247949 Nov  7  2014 libgettextlib-0.19.3.so
+-rwxr-xr-x  1 root root      1050 Nov  3  2014 libgettextlib.la
+lrwxrwxrwx  1 root root        23 Nov  3  2014 libgettextlib.so -> libgettextlib-0.19.3.so
+-rw-r--r--  1 root root   1996314 Apr 30 21:46 libgettextpo.a
+-rwxr-xr-x  1 root root      1013 Apr 30 21:46 libgettextpo.la
+lrwxrwxrwx  1 root root        22 Apr 30 21:46 libgettextpo.so -> libgettextpo.so.0.5.13
+lrwxrwxrwx  1 root root        22 Apr 30 21:46 libgettextpo.so.0 -> libgettextpo.so.0.5.13
+-rwxr-xr-x  1 root root    301075 Jan 12  2012 libgettextpo.so.0.5.1
+-rwxr-xr-x  1 root root   1343325 Apr 30 21:46 libgettextpo.so.0.5.13
+-rwxr-xr-x  1 root root    311532 Nov  7  2014 libgettextpo.so.0.5.2
+-rwxr-xr-x  1 root root    260102 Jan 12  2012 libgettextsrc-0.18.1.so
+-rwxr-xr-x  1 root root    266573 Nov  7  2014 libgettextsrc-0.19.3.so
+-rwxr-xr-x  1 root root      1076 Nov  3  2014 libgettextsrc.la
+lrwxrwxrwx  1 root root        23 Nov  3  2014 libgettextsrc.so -> libgettextsrc-0.19.3.so
+-rw-r--r--  1 root root  10304354 Nov 25  2017 libgio-2.0.a
+-rwxr-xr-x  1 root root      1251 Nov 25  2017 libgio-2.0.la
+lrwxrwxrwx  1 root root        22 Nov 25  2017 libgio-2.0.so -> libgio-2.0.so.0.5400.2
+lrwxrwxrwx  1 root root        22 Nov 25  2017 libgio-2.0.so.0 -> libgio-2.0.so.0.5400.2
+-rwxr-xr-x  1 root root   1117388 Jan 27  2012 libgio-2.0.so.0.3000.2
+-rwxr-xr-x  1 root root   1962470 Jan  8  2017 libgio-2.0.so.0.5000.2
+-rwxr-xr-x  1 root root   1898015 Nov 25  2017 libgio-2.0.so.0.5400.2
+-rw-r--r--  1 root root   4414904 Nov 25  2017 libglib-2.0.a
+-rwxr-xr-x  1 root root      1065 Nov 25  2017 libglib-2.0.la
+lrwxrwxrwx  1 root root        23 Nov 25  2017 libglib-2.0.so -> libglib-2.0.so.0.5400.2
+lrwxrwxrwx  1 root root        23 Nov 25  2017 libglib-2.0.so.0 -> libglib-2.0.so.0.5400.2
+-rwxr-xr-x  1 root root   1080744 Jan 27  2012 libglib-2.0.so.0.3000.2
+-rwxr-xr-x  1 root root   1267419 Jan  8  2017 libglib-2.0.so.0.5000.2
+-rwxr-xr-x  1 root root   1204473 Nov 25  2017 libglib-2.0.so.0.5400.2
+-rw-r--r--  1 root root     38706 Nov 25  2017 libgmodule-2.0.a
+-rwxr-xr-x  1 root root      1115 Nov 25  2017 libgmodule-2.0.la
+lrwxrwxrwx  1 root root        26 Nov 25  2017 libgmodule-2.0.so -> libgmodule-2.0.so.0.5400.2
+lrwxrwxrwx  1 root root        26 Nov 25  2017 libgmodule-2.0.so.0 -> libgmodule-2.0.so.0.5400.2
+-rwxr-xr-x  1 root root      9876 Jan 27  2012 libgmodule-2.0.so.0.3000.2
+-rwxr-xr-x  1 root root     14078 Jan  8  2017 libgmodule-2.0.so.0.5000.2
+-rwxr-xr-x  1 root root     14189 Nov 25  2017 libgmodule-2.0.so.0.5400.2
+-rw-r--r--  1 root root    927584 Oct  2  2014 libgmp.a
+-rwxr-xr-x  1 root root       919 Oct  2  2014 libgmp.la
+lrwxrwxrwx  1 root root        16 Oct  2  2014 libgmp.so -> libgmp.so.10.2.0
+lrwxrwxrwx  1 root root        16 Oct  2  2014 libgmp.so.10 -> libgmp.so.10.2.0
+-rwxr-xr-x  1 root root    404696 Dec 17  2011 libgmp.so.10.0.2
+-rwxr-xr-x  1 root root    430001 Oct  2  2014 libgmp.so.10.2.0
+-rw-r--r--  1 root root     43704 Oct  2  2014 libgmpxx.a
+-rwxr-xr-x  1 root root       959 Oct  2  2014 libgmpxx.la
+lrwxrwxrwx  1 root root        17 Oct  2  2014 libgmpxx.so -> libgmpxx.so.4.4.0
+lrwxrwxrwx  1 root root        17 Oct  2  2014 libgmpxx.so.4 -> libgmpxx.so.4.4.0
+-rwxr-xr-x  1 root root     39751 Oct  2  2014 libgmpxx.so.4.4.0
+-rw-r--r--  1 root root     35506 Dec 10  2016 libgnutls-openssl.a
+-rwxr-xr-x  1 root root      1166 Dec 10  2016 libgnutls-openssl.la
+lrwxrwxrwx  1 root root        27 Dec 10  2016 libgnutls-openssl.so -> libgnutls-openssl.so.27.0.2
+lrwxrwxrwx  1 root root        27 Dec 10  2016 libgnutls-openssl.so.27 -> libgnutls-openssl.so.27.0.2
+-rwxr-xr-x  1 root root     34070 Dec 10  2016 libgnutls-openssl.so.27.0.2
+-rw-r--r--  1 root root   2349560 Dec 10  2016 libgnutls.a
+-rwxr-xr-x  1 root root      1081 Dec 10  2016 libgnutls.la
+lrwxrwxrwx  1 root root        20 Dec 10  2016 libgnutls.so -> libgnutls.so.30.13.0
+lrwxrwxrwx  1 root root        20 Dec 10  2016 libgnutls.so.30 -> libgnutls.so.30.13.0
+-rwxr-xr-x  1 root root   1697955 Dec 10  2016 libgnutls.so.30.13.0
+-rw-r--r--  1 root root     48020 Dec 10  2016 libgnutlsxx.a
+-rwxr-xr-x  1 root root      1135 Dec 10  2016 libgnutlsxx.la
+lrwxrwxrwx  1 root root        21 Dec 10  2016 libgnutlsxx.so -> libgnutlsxx.so.28.1.0
+lrwxrwxrwx  1 root root        21 Dec 10  2016 libgnutlsxx.so.28 -> libgnutlsxx.so.28.1.0
+-rwxr-xr-x  1 root root     70339 Dec 10  2016 libgnutlsxx.so.28.1.0
+-rw-r--r--  1 root root   1805138 Nov 25  2017 libgobject-2.0.a
+-rwxr-xr-x  1 root root      1129 Nov 25  2017 libgobject-2.0.la
+lrwxrwxrwx  1 root root        26 Nov 25  2017 libgobject-2.0.so -> libgobject-2.0.so.0.5400.2
+lrwxrwxrwx  1 root root        26 Nov 25  2017 libgobject-2.0.so.0 -> libgobject-2.0.so.0.5400.2
+-rwxr-xr-x  1 root root    289392 Jan 27  2012 libgobject-2.0.so.0.3000.2
+-rwxr-xr-x  1 root root    389583 Jan  8  2017 libgobject-2.0.so.0.5000.2
+-rwxr-xr-x  1 root root    386530 Nov 25  2017 libgobject-2.0.so.0.5400.2
+-rw-r--r--  1 root root    615832 Nov  2  2014 libgomp.a
+-rwxr-xr-x  1 root root       930 Nov  2  2014 libgomp.la
+lrwxrwxrwx  1 root root        16 Nov  2  2014 libgomp.so -> libgomp.so.1.0.0
+lrwxrwxrwx  1 root root        16 Nov  2  2014 libgomp.so.1 -> libgomp.so.1.0.0
+-rwxr-xr-x  1 root root    122307 Nov  2  2014 libgomp.so.1.0.0
+-rw-r--r--  1 root root       164 Nov  2  2014 libgomp.spec
+-rw-r--r--  1 root root    102468 Dec  9  2016 libgpg-error.a
+-rwxr-xr-x  1 root root       975 Dec  9  2016 libgpg-error.la
+lrwxrwxrwx  1 root root        22 Dec  9  2016 libgpg-error.so -> libgpg-error.so.0.20.0
+lrwxrwxrwx  1 root root        22 Dec  9  2016 libgpg-error.so.0 -> libgpg-error.so.0.20.0
+-rwxr-xr-x  1 root root     90474 Dec  9  2016 libgpg-error.so.0.20.0
+-rw-r--r--  1 root root    463646 Dec 10  2016 libgpgme.a
+-rwxr-xr-x  1 root root       997 Dec 10  2016 libgpgme.la
+lrwxrwxrwx  1 root root        19 Dec 10  2016 libgpgme.so -> libgpgme.so.11.17.0
+lrwxrwxrwx  1 root root        19 Dec 10  2016 libgpgme.so.11 -> libgpgme.so.11.17.0
+-rwxr-xr-x  1 root root    309298 Dec 10  2016 libgpgme.so.11.17.0
+-rw-r--r--  1 root root      5074 Nov 25  2017 libgthread-2.0.a
+-rwxr-xr-x  1 root root      1110 Nov 25  2017 libgthread-2.0.la
+lrwxrwxrwx  1 root root        26 Nov 25  2017 libgthread-2.0.so -> libgthread-2.0.so.0.5400.2
+lrwxrwxrwx  1 root root        26 Nov 25  2017 libgthread-2.0.so.0 -> libgthread-2.0.so.0.5400.2
+-rwxr-xr-x  1 root root     14588 Jan 27  2012 libgthread-2.0.so.0.3000.2
+-rwxr-xr-x  1 root root      6140 Jan  8  2017 libgthread-2.0.so.0.5000.2
+-rwxr-xr-x  1 root root      6168 Nov 25  2017 libgthread-2.0.so.0.5400.2
+-rw-r--r--  1 root root     45136 Sep 13  2024 libhistory.a
+lrwxrwxrwx  1 root root        15 Sep 13  2024 libhistory.so -> libhistory.so.8
+lrwxrwxrwx  1 root root        17 Oct  1  2014 libhistory.so.6 -> libhistory.so.6.3
+-rwxr-xr-x  1 root root     32804 Jan 13  2012 libhistory.so.6.2
+-rwxr-xr-x  1 root root     36155 Oct  1  2014 libhistory.so.6.3
+lrwxrwxrwx  1 root root        17 Sep 13  2024 libhistory.so.8 -> libhistory.so.8.2
+-rwxr-xr-x  1 root root     42110 Sep 13  2024 libhistory.so.8.2
+-rw-r--r--  1 root root   9007320 Dec  9  2016 libhogweed.a
+lrwxrwxrwx  1 root root        17 Dec  9  2016 libhogweed.so -> libhogweed.so.4.3
+lrwxrwxrwx  1 root root        17 Dec  9  2016 libhogweed.so.4 -> libhogweed.so.4.3
+-rwxr-xr-x  1 root root    203077 Dec  9  2016 libhogweed.so.4.3
+-rw-r--r--  1 root root    951042 Nov  3  2014 libiconv.a
+-rwxr-xr-x  1 root root       937 Oct  9  2024 libiconv.la
+lrwxrwxrwx  1 root root        17 Oct  9  2024 libiconv.so -> libiconv.so.2.6.1
+lrwxrwxrwx  1 root root        23 Jul 27  2024 libiconv.so.0 -> preloadable_libiconv.so
+lrwxrwxrwx  1 root root        17 Oct  9  2024 libiconv.so.2 -> libiconv.so.2.6.1
+-rwxr-xr-x  1 root root    955200 Nov  3  2014 libiconv.so.2.5.1
+-rwxr-xr-x  1 root root   1129842 Oct  9  2024 libiconv.so.2.6.1
+-rwxr-xr-x  1 root root  26214108 Feb 14  2017 libicudata.a
+lrwxrwxrwx  1 root root        18 Feb 14  2017 libicudata.so -> libicudata.so.58.2
+lrwxrwxrwx  1 root root        18 Feb 14  2017 libicudata.so.58 -> libicudata.so.58.2
+-rwxr-xr-x  1 root root  26218442 Feb 14  2017 libicudata.so.58.2
+lrwxrwxrwx  1 root root        22 Sep 30  2024 libicudata.so.60 -> /ffp/lib/libicudata.so
+-rwxr-xr-x  1 root root   4705156 Feb 14  2017 libicui18n.a
+lrwxrwxrwx  1 root root        18 Feb 14  2017 libicui18n.so -> libicui18n.so.58.2
+lrwxrwxrwx  1 root root        18 Feb 14  2017 libicui18n.so.58 -> libicui18n.so.58.2
+-rwxr-xr-x  1 root root   2884770 Feb 14  2017 libicui18n.so.58.2
+lrwxrwxrwx  1 root root        25 Sep 30  2024 libicui18n.so.60 -> /ffp/lib/libicui18n.so.58
+-rwxr-xr-x  1 root root     59558 Feb 14  2017 libicuio.a
+lrwxrwxrwx  1 root root        16 Feb 14  2017 libicuio.so -> libicuio.so.58.2
+lrwxrwxrwx  1 root root        16 Feb 14  2017 libicuio.so.58 -> libicuio.so.58.2
+-rwxr-xr-x  1 root root     60024 Feb 14  2017 libicuio.so.58.2
+-rwxr-xr-x  1 root root    102984 Feb 14  2017 libicutest.a
+lrwxrwxrwx  1 root root        18 Feb 14  2017 libicutest.so -> libicutest.so.58.2
+lrwxrwxrwx  1 root root        18 Feb 14  2017 libicutest.so.58 -> libicutest.so.58.2
+-rwxr-xr-x  1 root root     90454 Feb 14  2017 libicutest.so.58.2
+-rwxr-xr-x  1 root root    303346 Feb 14  2017 libicutu.a
+lrwxrwxrwx  1 root root        16 Feb 14  2017 libicutu.so -> libicutu.so.58.2
+lrwxrwxrwx  1 root root        16 Feb 14  2017 libicutu.so.58 -> libicutu.so.58.2
+-rwxr-xr-x  1 root root    219660 Feb 14  2017 libicutu.so.58.2
+-rwxr-xr-x  1 root root   2613760 Feb 14  2017 libicuuc.a
+lrwxrwxrwx  1 root root        16 Feb 14  2017 libicuuc.so -> libicuuc.so.58.2
+lrwxrwxrwx  1 root root        16 Feb 14  2017 libicuuc.so.58 -> libicuuc.so.58.2
+-rwxr-xr-x  1 root root   1817006 Feb 14  2017 libicuuc.so.58.2
+lrwxrwxrwx  1 root root        20 Sep 30  2024 libicuuc.so.60 -> /ffp/lib/libicuuc.so
+-rw-r--r--  1 root root     65788 Nov  3  2014 libintl.a
+-rwxr-xr-x  1 root root       958 Nov  3  2014 libintl.la
+lrwxrwxrwx  1 root root        16 Nov  3  2014 libintl.so -> libintl.so.8.1.2
+lrwxrwxrwx  1 root root        21 Aug 16  2024 libintl.so.7 -> /ffp/lib/libintl.so.8
+lrwxrwxrwx  1 root root        16 Nov  3  2014 libintl.so.8 -> libintl.so.8.1.2
+-rwxr-xr-x  1 root root     41871 Jan 12  2012 libintl.so.8.1.1
+-rwxr-xr-x  1 root root     41871 Nov  7  2014 libintl.so.8.1.2
+-rwxr-xr-x  1 root root       936 Nov 12  2021 libip4tc.la
+lrwxrwxrwx  1 root root        17 Nov 12  2021 libip4tc.so -> libip4tc.so.0.1.0
+lrwxrwxrwx  1 root root        17 Nov 12  2021 libip4tc.so.0 -> libip4tc.so.0.1.0
+-rwxr-xr-x  1 root root     26164 Nov 12  2021 libip4tc.so.0.1.0
+-rwxr-xr-x  1 root root       936 Nov 12  2021 libip6tc.la
+lrwxrwxrwx  1 root root        17 Nov 12  2021 libip6tc.so -> libip6tc.so.0.1.0
+lrwxrwxrwx  1 root root        17 Nov 12  2021 libip6tc.so.0 -> libip6tc.so.0.1.0
+-rwxr-xr-x  1 root root     27952 Nov 12  2021 libip6tc.so.0.1.0
+-rwxr-xr-x  1 root root       972 Nov 12  2021 libiptc.la
+lrwxrwxrwx  1 root root        16 Nov 12  2021 libiptc.so -> libiptc.so.0.0.0
+lrwxrwxrwx  1 root root        16 Nov 12  2021 libiptc.so.0 -> libiptc.so.0.0.0
+-rwxr-xr-x  1 root root      4568 Nov 12  2021 libiptc.so.0.0.0
+-rw-r--r--  1 root root    322058 Nov  2  2014 libitm.a
+-rwxr-xr-x  1 root root       923 Nov  2  2014 libitm.la
+lrwxrwxrwx  1 root root        15 Nov  2  2014 libitm.so -> libitm.so.1.0.0
+lrwxrwxrwx  1 root root        15 Nov  2  2014 libitm.so.1 -> libitm.so.1.0.0
+-rwxr-xr-x  1 root root    197009 Nov  2  2014 libitm.so.1.0.0
+-rw-r--r--  1 root root       162 Nov  2  2014 libitm.spec
+-rw-r--r--  1 root root    302726 Jun 22  2013 libjpeg.a
+-rwxr-xr-x  1 root root       799 Jun 22  2013 libjpeg.la
+lrwxrwxrwx  1 root root        17 Jun 22  2013 libjpeg.so -> libjpeg.so.62.1.0
+lrwxrwxrwx  1 root root        17 Jun 22  2013 libjpeg.so.62 -> libjpeg.so.62.1.0
+-rwxr-xr-x  1 root root    249507 Jun 22  2013 libjpeg.so.62.1.0
+lrwxrwxrwx  1 root root        16 Dec 28  2011 libjpeg.so.8 -> libjpeg.so.8.3.0
+-rwxr-xr-x  1 root root    274403 Dec 28  2011 libjpeg.so.8.3.0
+-rw-r--r--  1 root root   1455424 Dec  8  2024 libjq.a
+-rwxr-xr-x  1 root root       965 Dec  8  2024 libjq.la
+lrwxrwxrwx  1 root root        14 Dec  8  2024 libjq.so -> libjq.so.1.0.4
+lrwxrwxrwx  1 root root        14 Dec  8  2024 libjq.so.1 -> libjq.so.1.0.4
+-rwxr-xr-x  1 root root   1030432 Dec  8  2024 libjq.so.1.0.4
+-rw-r--r--  1 root root    292592 Nov  4  2016 libksba.a
+-rwxr-xr-x  1 root root       965 Nov  4  2016 libksba.la
+lrwxrwxrwx  1 root root        17 Nov  4  2016 libksba.so -> libksba.so.8.11.6
+lrwxrwxrwx  1 root root        17 Nov  4  2016 libksba.so.8 -> libksba.so.8.11.6
+-rwxr-xr-x  1 root root    240679 Nov  4  2016 libksba.so.8.11.6
+-rw-r--r--  1 root root     44460 Nov  2  2014 libltdl.a
+-rwxr-xr-x  1 root root       927 Nov  2  2014 libltdl.la
+lrwxrwxrwx  1 root root        16 Nov  2  2014 libltdl.so -> libltdl.so.7.3.1
+lrwxrwxrwx  1 root root        16 Nov  2  2014 libltdl.so.7 -> libltdl.so.7.3.1
+-rwxr-xr-x  1 root root     39768 Nov  2  2014 libltdl.so.7.3.1
+-rw-r--r--  1 root root    216220 Jan 13  2012 liblzma.a
+-rwxr-xr-x  1 root root       929 Jan 13  2012 liblzma.la
+lrwxrwxrwx  1 root root        16 Jan 13  2012 liblzma.so -> liblzma.so.5.0.3
+lrwxrwxrwx  1 root root        16 Jul 27  2024 liblzma.so.5 -> liblzma.so.5.2.3
+-rwxr-xr-x  1 root root    139921 Jan 13  2012 liblzma.so.5.0.3
+-rwxr-xr-x  1 root root    150337 Jan 31  2017 liblzma.so.5.2.3
+-rwxr-xr-x  1 root root     72288 Dec 22  2011 libm-0.9.33-git.so
+-rwxr-xr-x  1 root root     70848 May 22  2016 libm-0.9.33.3-git.so
+-rw-r--r--  1 root root    201558 May 22  2016 libm.a
+lrwxrwxrwx  1 root root        20 May 22  2016 libm.so -> libm-0.9.33.3-git.so
+lrwxrwxrwx  1 root root        20 May 22  2016 libm.so.0 -> libm-0.9.33.3-git.so
+lrwxrwxrwx  1 root root         6 May 22  2016 libm_pic.a -> libm.a
+-rw-r--r--  1 root root    383322 Dec 28  2011 libmagic.a
+-rwxr-xr-x  1 root root       936 Dec 28  2011 libmagic.la
+lrwxrwxrwx  1 root root        17 Dec 28  2011 libmagic.so -> libmagic.so.1.0.0
+lrwxrwxrwx  1 root root        20 Sep 13  2024 libmagic.so.1 -> /ffp/lib/libmagic.so
+-rwxr-xr-x  1 root root    125145 Dec 28  2011 libmagic.so.1.0.0
+drwxr-xr-x  2 root root      4096 Apr 27  2017 libmcrypt
+-rw-r--r--  1 root root    707910 Apr 27  2017 libmcrypt.a
+-rwxr-xr-x  1 root root       800 Apr 27  2017 libmcrypt.la
+lrwxrwxrwx  1 root root        18 Apr 27  2017 libmcrypt.so -> libmcrypt.so.4.4.8
+lrwxrwxrwx  1 root root        18 Apr 27  2017 libmcrypt.so.4 -> libmcrypt.so.4.4.8
+-rwxr-xr-x  1 root root    182174 Apr 27  2017 libmcrypt.so.4.4.8
+lrwxrwxrwx  1 root root        10 Mar 28 05:15 libmenu.a -> libmenuw.a
+lrwxrwxrwx  1 root root        11 Mar 28 05:15 libmenu.so -> libmenuw.so
+lrwxrwxrwx  1 root root        12 Mar 28 05:20 libmenu.so.5 -> libmenu.so.6
+lrwxrwxrwx  1 root root        14 Mar 28 05:20 libmenu.so.5.9 -> libmenu.so.6.5
+lrwxrwxrwx  1 root root        13 Mar 28 05:15 libmenu.so.6 -> libmenuw.so.6
+lrwxrwxrwx  1 root root        15 Mar 28 05:15 libmenu.so.6.5 -> libmenuw.so.6.5
+-rw-r--r--  1 root root     50666 Mar 28 05:15 libmenuw.a
+-rwxr-xr-x  1 root root       951 Oct  1  2024 libmenuw.la
+lrwxrwxrwx  1 root root        13 Mar 28 05:15 libmenuw.so -> libmenuw.so.6
+lrwxrwxrwx  1 root root        17 Apr 30 21:32 libmenuw.so.6 -> libmenuw.so.6.5.0
+-rwxr-xr-x  1 root root     32015 Mar 28 05:16 libmenuw.so.6.5
+-rwxr-xr-x  1 root root     31811 Oct  1  2024 libmenuw.so.6.5.0
+-rwxr-xr-x  1 root root       911 Feb 14 04:24 libmnl.la
+lrwxrwxrwx  1 root root        15 Feb 14 04:24 libmnl.so -> libmnl.so.0.2.0
+lrwxrwxrwx  1 root root        15 Feb 14 04:24 libmnl.so.0 -> libmnl.so.0.2.0
+-rwxr-xr-x  1 root root     52814 Feb 14 04:24 libmnl.so.0.2.0
+-rw-r--r--  1 root root    405350 Oct 21  2016 libmount.a
+-rwxr-xr-x  1 root root       974 Oct 21  2016 libmount.la
+lrwxrwxrwx  1 root root        17 Oct 21  2016 libmount.so -> libmount.so.1.1.0
+lrwxrwxrwx  1 root root        17 Oct 21  2016 libmount.so.1 -> libmount.so.1.1.0
+-rwxr-xr-x  1 root root    299003 Oct 21  2016 libmount.so.1.1.0
+-rw-r--r--  1 root root    464652 Dec 17  2011 libmp.a
+-rwxr-xr-x  1 root root       913 Dec 17  2011 libmp.la
+lrwxrwxrwx  1 root root        15 Dec 17  2011 libmp.so -> libmp.so.3.1.22
+lrwxrwxrwx  1 root root        15 Dec 17  2011 libmp.so.3 -> libmp.so.3.1.22
+-rwxr-xr-x  1 root root    256609 Dec 17  2011 libmp.so.3.1.22
+-rw-r--r--  1 root root    430632 May 19  2017 libmp3lame.a
+-rwxr-xr-x  1 root root       937 May 19  2017 libmp3lame.la
+lrwxrwxrwx  1 root root        19 May 19  2017 libmp3lame.so -> libmp3lame.so.0.0.0
+lrwxrwxrwx  1 root root        19 May 19  2017 libmp3lame.so.0 -> libmp3lame.so.0.0.0
+-rwxr-xr-x  1 root root    348542 May 19  2017 libmp3lame.so.0.0.0
+-rw-r--r--  1 root root    163874 Sep  6  2014 libmpc.a
+-rwxr-xr-x  1 root root       971 Sep  6  2014 libmpc.la
+lrwxrwxrwx  1 root root        15 Sep  6  2014 libmpc.so -> libmpc.so.3.0.0
+lrwxrwxrwx  1 root root        15 Sep  6  2014 libmpc.so.3 -> libmpc.so.3.0.0
+-rwxr-xr-x  1 root root     87777 Sep  6  2014 libmpc.so.3.0.0
+-rw-r--r--  1 root root    703542 Oct  2  2014 libmpfr.a
+-rwxr-xr-x  1 root root       965 Oct  2  2014 libmpfr.la
+lrwxrwxrwx  1 root root        16 Oct  2  2014 libmpfr.so -> libmpfr.so.4.1.2
+lrwxrwxrwx  1 root root        16 Oct  2  2014 libmpfr.so.4 -> libmpfr.so.4.1.2
+-rwxr-xr-x  1 root root    379717 Oct  2  2014 libmpfr.so.4.1.2
+-rw-r--r--  1 root root   4198692 Feb 20  2017 libmpi.a
+-rwxr-xr-x  1 root root       985 Feb 20  2017 libmpi.la
+lrwxrwxrwx  1 root root        16 Feb 20  2017 libmpi.so -> libmpi.so.12.0.6
+lrwxrwxrwx  1 root root        16 Feb 20  2017 libmpi.so.12 -> libmpi.so.12.0.6
+-rwxr-xr-x  1 root root   2360509 Feb 20  2017 libmpi.so.12.0.6
+-rw-r--r--  1 root root    390166 Feb 20  2017 libmpi_cxx.a
+-rwxr-xr-x  1 root root      1046 Feb 20  2017 libmpi_cxx.la
+lrwxrwxrwx  1 root root        19 Feb 20  2017 libmpi_cxx.so -> libmpi_cxx.so.1.1.3
+lrwxrwxrwx  1 root root        19 Feb 20  2017 libmpi_cxx.so.1 -> libmpi_cxx.so.1.1.3
+-rwxr-xr-x  1 root root    111840 Feb 20  2017 libmpi_cxx.so.1.1.3
+lrwxrwxrwx  1 root root        19 Dec 21  2011 libmudflap.so -> libmudflap.so.0.0.0
+lrwxrwxrwx  1 root root        19 Dec 21  2011 libmudflap.so.0 -> libmudflap.so.0.0.0
+-rwxr-xr-x  1 root root    133228 Dec 21  2011 libmudflap.so.0.0.0
+lrwxrwxrwx  1 root root        21 Dec 21  2011 libmudflapth.so -> libmudflapth.so.0.0.0
+lrwxrwxrwx  1 root root        21 Dec 21  2011 libmudflapth.so.0 -> libmudflapth.so.0.0.0
+-rwxr-xr-x  1 root root    137123 Dec 21  2011 libmudflapth.so.0.0.0
+-rw-r--r--  1 root root   3298164 Oct  4  2012 libmysqlclient.a
+lrwxrwxrwx  1 root root        20 Oct  3  2012 libmysqlclient.so -> libmysqlclient.so.18
+lrwxrwxrwx  1 root root        24 Oct  3  2012 libmysqlclient.so.18 -> libmysqlclient.so.18.0.0
+-rwxr-xr-x  1 root root   2943120 Oct 29  2012 libmysqlclient.so.18.0.0
+lrwxrwxrwx  1 root root        16 Oct  3  2012 libmysqlclient_r.a -> libmysqlclient.a
+lrwxrwxrwx  1 root root        17 Oct  3  2012 libmysqlclient_r.so -> libmysqlclient.so
+lrwxrwxrwx  1 root root        17 Oct  3  2012 libmysqlclient_r.so.18 -> libmysqlclient.so
+lrwxrwxrwx  1 root root        17 Oct  3  2012 libmysqlclient_r.so.18.0.0 -> libmysqlclient.so
+-rw-r--r--  1 root root  13866244 Oct  4  2012 libmysqld.a
+lrwxrwxrwx  1 root root        15 Aug 15  2015 libmysqld.so -> libmysqld.so.18
+-rwxr-xr-x  1 root root  13618934 Aug 15  2015 libmysqld.so.18
+-rw-r--r--  1 root root      3934 Oct  3  2012 libmysqlservices.a
+lrwxrwxrwx  1 root root        15 Mar 28 05:15 libncurses++.a -> libncurses++w.a
+lrwxrwxrwx  1 root root        16 Mar 28 05:15 libncurses++.so -> libncurses++w.so
+lrwxrwxrwx  1 root root        17 Mar 28 05:20 libncurses++.so.5 -> libncurses++.so.6
+lrwxrwxrwx  1 root root        19 Mar 28 05:20 libncurses++.so.5.9 -> libncurses++.so.6.5
+lrwxrwxrwx  1 root root        18 Mar 28 05:15 libncurses++.so.6 -> libncurses++w.so.6
+lrwxrwxrwx  1 root root        20 Mar 28 05:15 libncurses++.so.6.5 -> libncurses++w.so.6.5
+-rw-r--r--  1 root root    149094 Mar 28 05:15 libncurses++w.a
+-rwxr-xr-x  1 root root      1079 Oct  1  2024 libncurses++w.la
+lrwxrwxrwx  1 root root        18 Mar 28 05:15 libncurses++w.so -> libncurses++w.so.6
+lrwxrwxrwx  1 root root        22 Apr 30 21:32 libncurses++w.so.6 -> libncurses++w.so.6.5.0
+-rwxr-xr-x  1 root root     88283 Mar 28 05:16 libncurses++w.so.6.5
+-rwxr-xr-x  1 root root     88318 Oct  1  2024 libncurses++w.so.6.5.0
+lrwxrwxrwx  1 root root        13 Mar 28 05:15 libncurses.a -> libncursesw.a
+lrwxrwxrwx  1 root root        14 Mar 28 05:15 libncurses.so -> libncursesw.so
+lrwxrwxrwx  1 root root        15 Mar 28 05:20 libncurses.so.5 -> libncurses.so.6
+lrwxrwxrwx  1 root root        17 Mar 28 05:21 libncurses.so.5.9 -> libncurses.so.6.5
+lrwxrwxrwx  1 root root        16 Mar 28 05:15 libncurses.so.6 -> libncursesw.so.6
+lrwxrwxrwx  1 root root        18 Mar 28 05:15 libncurses.so.6.5 -> libncursesw.so.6.5
+-rw-r--r--  1 root root    627196 Mar 28 05:15 libncursesw.a
+-rwxr-xr-x  1 root root       948 Oct  1  2024 libncursesw.la
+lrwxrwxrwx  1 root root        16 Mar 28 05:15 libncursesw.so -> libncursesw.so.6
+lrwxrwxrwx  1 root root        16 Jan 15 18:36 libncursesw.so.5 -> libncursesw.so.6
+lrwxrwxrwx  1 root root        18 Jan 15 18:36 libncursesw.so.5.9 -> libncursesw.so.6.5
+lrwxrwxrwx  1 root root        18 Mar 28 05:15 libncursesw.so.6 -> libncursesw.so.6.5
+-rwxr-xr-x  1 root root    456762 Mar 28 05:16 libncursesw.so.6.5
+-rwxr-xr-x  1 root root         0 Dec 24  2024 libncursesw.so.6.5.0
+-rw-r--r--  1 root root   8642398 Dec  9  2016 libnettle.a
+lrwxrwxrwx  1 root root        16 Dec  9  2016 libnettle.so -> libnettle.so.6.3
+lrwxrwxrwx  1 root root        16 Dec  9  2016 libnettle.so.6 -> libnettle.so.6.3
+-rwxr-xr-x  1 root root    269019 Dec  9  2016 libnettle.so.6.3
+-rwxr-xr-x  1 root root       945 Feb 14 04:29 libnftnl.la
+lrwxrwxrwx  1 root root        18 Feb 14 04:29 libnftnl.so -> libnftnl.so.11.6.0
+lrwxrwxrwx  1 root root        18 Feb 14 04:29 libnftnl.so.11 -> libnftnl.so.11.6.0
+-rwxr-xr-x  1 root root    911050 Feb 14 04:29 libnftnl.so.11.6.0
+-rw-r--r--  1 root root   9964218 Oct  2  2024 libninja.a
+-rw-r--r--  1 root root     13174 Dec 10  2016 libnpth.a
+-rwxr-xr-x  1 root root       949 Dec 10  2016 libnpth.la
+lrwxrwxrwx  1 root root        16 Dec 10  2016 libnpth.so -> libnpth.so.0.0.6
+lrwxrwxrwx  1 root root        16 Dec 10  2016 libnpth.so.0 -> libnpth.so.0.0.6
+-rwxr-xr-x  1 root root     18321 Dec 10  2016 libnpth.so.0.0.6
+-rw-r--r--  1 root root     58742 May 17  2017 libogg.a
+-rwxr-xr-x  1 root root       904 May 17  2017 libogg.la
+lrwxrwxrwx  1 root root        15 May 17  2017 libogg.so -> libogg.so.0.8.2
+lrwxrwxrwx  1 root root        15 May 17  2017 libogg.so.0 -> libogg.so.0.8.2
+-rwxr-xr-x  1 root root     22407 May 17  2017 libogg.so.0.8.2
+-rw-r--r--  1 root root     30622 Feb 20  2017 libompitrace.a
+-rwxr-xr-x  1 root root       970 Feb 20  2017 libompitrace.la
+lrwxrwxrwx  1 root root        21 Feb 20  2017 libompitrace.so -> libompitrace.so.0.0.0
+lrwxrwxrwx  1 root root        21 Feb 20  2017 libompitrace.so.0 -> libompitrace.so.0.0.0
+-rwxr-xr-x  1 root root     14839 Feb 20  2017 libompitrace.so.0.0.0
+-rw-r--r--  1 root root   1758394 Dec  8  2024 libonig.a
+-rwxr-xr-x  1 root root       910 Dec  8  2024 libonig.la
+lrwxrwxrwx  1 root root        16 Dec  8  2024 libonig.so -> libonig.so.5.3.0
+lrwxrwxrwx  1 root root        16 Dec  8  2024 libonig.so.5 -> libonig.so.5.3.0
+-rwxr-xr-x  1 root root   1314395 Dec  8  2024 libonig.so.5.3.0
+-rwxr-xr-x  1 root root    126744 Oct  6  2014 libopcodes-2.24.so
+-rwxr-xr-x  1 root root    570189 Dec 16  2024 libopcodes-2.43.1.so
+-rw-r--r--  1 root root    934812 Dec 16  2024 libopcodes.a
+-rwxr-xr-x  1 root root      1421 Dec 16  2024 libopcodes.la
+lrwxrwxrwx  1 root root        20 Dec 16  2024 libopcodes.so -> libopcodes-2.43.1.so
+-rw-r--r--  1 root root   1621608 Feb 20  2017 libopen-pal.a
+-rwxr-xr-x  1 root root       972 Feb 20  2017 libopen-pal.la
+lrwxrwxrwx  1 root root        21 Feb 20  2017 libopen-pal.so -> libopen-pal.so.13.0.4
+lrwxrwxrwx  1 root root        21 Feb 20  2017 libopen-pal.so.13 -> libopen-pal.so.13.0.4
+-rwxr-xr-x  1 root root    873259 Feb 20  2017 libopen-pal.so.13.0.4
+-rw-r--r--  1 root root   1576912 Feb 20  2017 libopen-rte.a
+-rwxr-xr-x  1 root root       996 Feb 20  2017 libopen-rte.la
+lrwxrwxrwx  1 root root        21 Feb 20  2017 libopen-rte.so -> libopen-rte.so.12.0.4
+lrwxrwxrwx  1 root root        21 Feb 20  2017 libopen-rte.so.12 -> libopen-rte.so.12.0.4
+-rwxr-xr-x  1 root root   1019379 Feb 20  2017 libopen-rte.so.12.0.4
+-rw-r--r--  1 root root   1133290 Feb 20  2017 libopen-trace-format.a
+-rwxr-xr-x  1 root root      1124 Feb 20  2017 libopen-trace-format.la
+lrwxrwxrwx  1 root root        29 Feb 20  2017 libopen-trace-format.so -> libopen-trace-format.so.1.0.0
+lrwxrwxrwx  1 root root        29 Feb 20  2017 libopen-trace-format.so.1 -> libopen-trace-format.so.1.0.0
+-rwxr-xr-x  1 root root    306793 Feb 20  2017 libopen-trace-format.so.1.0.0
+-rw-r--r--  1 root root   2029950 May 19  2017 libopus.a
+-rwxr-xr-x  1 root root       914 May 19  2017 libopus.la
+lrwxrwxrwx  1 root root        16 May 19  2017 libopus.so -> libopus.so.0.5.4
+lrwxrwxrwx  1 root root        16 May 19  2017 libopus.so.0 -> libopus.so.0.5.4
+-rwxr-xr-x  1 root root    326820 May 19  2017 libopus.so.0.5.4
+-rw-r--r--  1 root root    481846 Feb 20  2017 liboshmem.a
+-rwxr-xr-x  1 root root      1021 Feb 20  2017 liboshmem.la
+lrwxrwxrwx  1 root root        18 Feb 20  2017 liboshmem.so -> liboshmem.so.8.1.2
+lrwxrwxrwx  1 root root        18 Feb 20  2017 liboshmem.so.8 -> liboshmem.so.8.1.2
+-rwxr-xr-x  1 root root    353992 Feb 20  2017 liboshmem.so.8.1.2
+-rw-r--r--  1 root root    116926 Feb 20  2017 libotfaux.a
+-rwxr-xr-x  1 root root      1043 Feb 20  2017 libotfaux.la
+lrwxrwxrwx  1 root root        18 Feb 20  2017 libotfaux.so -> libotfaux.so.0.0.0
+lrwxrwxrwx  1 root root        18 Feb 20  2017 libotfaux.so.0 -> libotfaux.so.0.0.0
+-rwxr-xr-x  1 root root     32443 Feb 20  2017 libotfaux.so.0.0.0
+lrwxrwxrwx  1 root root        11 Mar 28 05:15 libpanel.a -> libpanelw.a
+lrwxrwxrwx  1 root root        12 Mar 28 05:15 libpanel.so -> libpanelw.so
+lrwxrwxrwx  1 root root        13 Mar 28 05:21 libpanel.so.5 -> libpanel.so.6
+lrwxrwxrwx  1 root root        15 Mar 28 05:21 libpanel.so.5.9 -> libpanel.so.6.5
+lrwxrwxrwx  1 root root        14 Mar 28 05:15 libpanel.so.6 -> libpanelw.so.6
+lrwxrwxrwx  1 root root        16 Mar 28 05:15 libpanel.so.6.5 -> libpanelw.so.6.5
+-rw-r--r--  1 root root     20940 Mar 28 05:15 libpanelw.a
+-rwxr-xr-x  1 root root       958 Oct  1  2024 libpanelw.la
+lrwxrwxrwx  1 root root        14 Mar 28 05:15 libpanelw.so -> libpanelw.so.6
+lrwxrwxrwx  1 root root        18 Apr 30 21:32 libpanelw.so.6 -> libpanelw.so.6.5.0
+-rwxr-xr-x  1 root root     12925 Mar 28 05:16 libpanelw.so.6.5
+-rwxr-xr-x  1 root root     12829 Oct  1  2024 libpanelw.so.6.5.0
+-rw-r--r--  1 root root    271088 Dec 27  2011 libpcre.a
+-rwxr-xr-x  1 root root       920 Dec 27  2011 libpcre.la
+lrwxrwxrwx  1 root root        16 Dec 27  2011 libpcre.so -> libpcre.so.0.0.1
+lrwxrwxrwx  2 root root        16 Dec 27  2011 libpcre.so.0 -> libpcre.so.0.0.1
+-rwxr-xr-x  1 root root    237881 Dec 27  2011 libpcre.so.0.0.1
+lrwxrwxrwx  2 root root        16 Dec 27  2011 libpcre.so.1 -> libpcre.so.0.0.1
+-rw-r--r--  1 root root     37840 Dec 27  2011 libpcrecpp.a
+-rwxr-xr-x  1 root root       972 Dec 27  2011 libpcrecpp.la
+lrwxrwxrwx  1 root root        19 Dec 27  2011 libpcrecpp.so -> libpcrecpp.so.0.0.0
+lrwxrwxrwx  1 root root        19 Dec 27  2011 libpcrecpp.so.0 -> libpcrecpp.so.0.0.0
+-rwxr-xr-x  1 root root     47300 Dec 27  2011 libpcrecpp.so.0.0.0
+-rw-r--r--  1 root root      3794 Dec 27  2011 libpcreposix.a
+-rwxr-xr-x  1 root root       975 Dec 27  2011 libpcreposix.la
+lrwxrwxrwx  1 root root        21 Dec 27  2011 libpcreposix.so -> libpcreposix.so.0.0.0
+lrwxrwxrwx  1 root root        21 Dec 27  2011 libpcreposix.so.0 -> libpcreposix.so.0.0.0
+-rwxr-xr-x  1 root root      7859 Dec 27  2011 libpcreposix.so.0.0.0
+lrwxrwxrwx  1 root root        10 May 18  2017 libpng.a -> libpng16.a
+lrwxrwxrwx  1 root root        11 May 18  2017 libpng.la -> libpng16.la
+lrwxrwxrwx  1 root root        11 May 18  2017 libpng.so -> libpng16.so
+lrwxrwxrwx  1 root root         9 May 18  2017 libpng14.so.14 -> libpng.so
+-rw-r--r--  1 root root   1039234 May 18  2017 libpng16.a
+-rwxr-xr-x  1 root root       931 May 18  2017 libpng16.la
+lrwxrwxrwx  1 root root        19 May 18  2017 libpng16.so -> libpng16.so.16.29.0
+lrwxrwxrwx  1 root root        19 May 18  2017 libpng16.so.16 -> libpng16.so.16.29.0
+-rwxr-xr-x  1 root root    210130 May 18  2017 libpng16.so.16.29.0
+lrwxrwxrwx  1 root root        23 May 24  2017 libpostproc.so -> libpostproc.so.54.5.100
+lrwxrwxrwx  1 root root        23 May 24  2017 libpostproc.so.54 -> libpostproc.so.54.5.100
+-rwxr-xr-x  1 root root     42730 May 24  2017 libpostproc.so.54.5.100
+-rwxr-xr-x  1 root root     52184 Dec 30  2011 libproc-3.2.8.so
+-rw-r--r--  1 root root    197418 May 14  2016 libprotobuf-c.a
+-rwxr-xr-x  1 root root       952 May 14  2016 libprotobuf-c.la
+lrwxrwxrwx  1 root root        22 May 14  2016 libprotobuf-c.so -> libprotobuf-c.so.1.0.0
+lrwxrwxrwx  1 root root        22 May 14  2016 libprotobuf-c.so.1 -> libprotobuf-c.so.1.0.0
+-rwxr-xr-x  1 root root     33109 Nov 22  2017 libprotobuf-c.so.1.0.0
+-rwxr-xr-x  1 root root     96543 Dec 22  2011 libpthread-0.9.33-git.so
+-rwxr-xr-x  1 root root     94827 May 22  2016 libpthread-0.9.33.3-git.so
+-rw-r--r--  1 root root    228692 May 22  2016 libpthread.a
+-rwxr-xr-x  1 root root       175 May 22  2016 libpthread.so
+lrwxrwxrwx  1 root root        26 May 22  2016 libpthread.so.0 -> libpthread-0.9.33.3-git.so
+-rw-r--r--  1 root root      1208 May 22  2016 libpthread_nonshared.a
+lrwxrwxrwx  1 root root        22 May 22  2016 libpthread_nonshared_pic.a -> libpthread_nonshared.a
+lrwxrwxrwx  1 root root        12 May 22  2016 libpthread_pic.a -> libpthread.a
+-rwxr-xr-x  1 root root  29693284 Oct 15  2024 libpython3.11.a
+-rwxr-xr-x  1 root root  13806186 Oct 18  2024 libpython3.9.a
+-rwxr-xr-x  1 root root   9931458 Oct 18  2024 libpython3.9.so
+-rwxr-xr-x  1 root root   9931458 Oct 18  2024 libpython3.9.so.1.0
+-rwxr-xr-x  1 root root      4674 Oct 18  2024 libpython3.so
+-rw-r--r--  1 root root    392110 Sep 13  2024 libreadline.a
+lrwxrwxrwx  1 root root        16 Sep 13  2024 libreadline.so -> libreadline.so.8
+lrwxrwxrwx  1 root root        18 Oct  1  2014 libreadline.so.6 -> libreadline.so.6.3
+-rwxr-xr-x  1 root root    260898 Jan 13  2012 libreadline.so.6.2
+-rwxr-xr-x  1 root root    289335 Oct  1  2014 libreadline.so.6.3
+lrwxrwxrwx  1 root root        18 Sep 13  2024 libreadline.so.8 -> libreadline.so.8.2
+-rwxr-xr-x  1 root root    325007 Sep 13  2024 libreadline.so.8.2
+-rwxr-xr-x  1 root root      9712 Dec 22  2011 librt-0.9.33-git.so
+-rwxr-xr-x  1 root root      9436 May 22  2016 librt-0.9.33.3-git.so
+-rw-r--r--  1 root root     28956 May 22  2016 librt.a
+lrwxrwxrwx  1 root root        21 May 22  2016 librt.so -> librt-0.9.33.3-git.so
+lrwxrwxrwx  1 root root        21 May 22  2016 librt.so.0 -> librt-0.9.33.3-git.so
+lrwxrwxrwx  1 root root         7 May 22  2016 librt_pic.a -> librt.a
+-rw-r--r--  1 root root    165186 May 19  2017 librtmp.a
+lrwxrwxrwx  1 root root        12 May 19  2017 librtmp.so -> librtmp.so.1
+lrwxrwxrwx  1 root root        12 May 19  2017 librtmp.so.0 -> librtmp.so.1
+-rwxr-xr-x  1 root root    159562 May 19  2017 librtmp.so.1
+-rw-r--r--  1 root root       290 Nov  2  2014 libsanitizer.spec
+-rw-r--r--  1 root root     91746 Dec 16  2024 libsframe.a
+-rwxr-xr-x  1 root root       944 Dec 16  2024 libsframe.la
+lrwxrwxrwx  1 root root        18 Dec 16  2024 libsframe.so -> libsframe.so.1.0.0
+lrwxrwxrwx  1 root root        18 Dec 16  2024 libsframe.so.1 -> libsframe.so.1.0.0
+-rwxr-xr-x  1 root root     76849 Dec 16  2024 libsframe.so.1.0.0
+-rw-r--r--  1 root root    145962 May 19  2017 libshine.a
+-rwxr-xr-x  1 root root       921 May 19  2017 libshine.la
+lrwxrwxrwx  1 root root        17 May 19  2017 libshine.so -> libshine.so.3.0.1
+lrwxrwxrwx  1 root root        17 May 19  2017 libshine.so.3 -> libshine.so.3.0.1
+-rwxr-xr-x  1 root root     46296 May 19  2017 libshine.so.3.0.1
+-rw-r--r--  1 root root    102408 Jan  6  2017 libslapt.a
+lrwxrwxrwx  1 root root        19 Jan  6  2017 libslapt.so -> libslapt.so.0.10.2t
+-rwxr-xr-x  1 root root     84805 Jan  6  2017 libslapt.so.0.10.2t
+-rw-r--r--  1 root root    216208 Oct 21  2016 libsmartcols.a
+-rwxr-xr-x  1 root root       956 Oct 21  2016 libsmartcols.la
+lrwxrwxrwx  1 root root        21 Oct 21  2016 libsmartcols.so -> libsmartcols.so.1.1.0
+lrwxrwxrwx  1 root root        21 Oct 21  2016 libsmartcols.so.1 -> libsmartcols.so.1.1.0
+-rwxr-xr-x  1 root root    160907 Oct 21  2016 libsmartcols.so.1.1.0
+-rw-r--r--  1 root root    789018 Jul 23  2015 libsqlite3.a
+-rwxr-xr-x  1 root root       958 Jul 23  2015 libsqlite3.la
+lrwxrwxrwx  1 root root        19 Jul 23  2015 libsqlite3.so -> libsqlite3.so.0.8.6
+lrwxrwxrwx  1 root root        19 Jul 23  2015 libsqlite3.so.0 -> libsqlite3.so.0.8.6
+-rwxr-xr-x  1 root root    764902 Jul 23  2015 libsqlite3.so.0.8.6
+-r--r--r--  1 root root    108968 Dec 28  2011 libss.a
+lrwxrwxrwx  1 root root        10 Dec 28  2011 libss.so -> libss.so.2
+lrwxrwxrwx  1 root root        12 Dec 28  2011 libss.so.2 -> libss.so.2.0
+-rwxr-xr-x  1 root root     23513 Dec 28  2011 libss.so.2.0
+-rw-r--r--  1 root root    316498 Sep 29  2024 libssh2.a
+-rwxr-xr-x  1 root root       966 Sep 29  2024 libssh2.la
+lrwxrwxrwx  1 root root        16 Sep 29  2024 libssh2.so -> libssh2.so.1.0.1
+lrwxrwxrwx  1 root root        16 Sep 29  2024 libssh2.so.1 -> libssh2.so.1.0.1
+-rwxr-xr-x  1 root root    263524 Sep 29  2024 libssh2.so.1.0.1
+-rw-r--r--  1 root root    719462 May 28 08:27 libssl.a
+lrwxrwxrwx  1 root root        13 May 28 08:27 libssl.so -> libssl.so.1.1
+-rwxr-xr-x  1 root root    431934 May 26  2017 libssl.so.1.0.0
+-rwxr-xr-x  1 root root    595753 May 28 08:27 libssl.so.1.1
+-rwxr-xr-x  1 root root   1107658 May 28 04:51 libssl.so.3
+-rw-r--r--  1 root root     58322 Nov  2  2014 libssp.a
+-rwxr-xr-x  1 root root       923 Nov  2  2014 libssp.la
+lrwxrwxrwx  1 root root        15 Nov  2  2014 libssp.so -> libssp.so.0.0.0
+lrwxrwxrwx  1 root root        15 Nov  2  2014 libssp.so.0 -> libssp.so.0.0.0
+-rwxr-xr-x  1 root root     10594 Nov  2  2014 libssp.so.0.0.0
+-rw-r--r--  1 root root      2378 Nov  2  2014 libssp_nonshared.a
+-rwxr-xr-x  1 root root       905 Nov  2  2014 libssp_nonshared.la
+-rw-r--r--  1 root root   4573386 Nov  2  2014 libstdc++.a
+-rwxr-xr-x  1 root root       950 Nov  2  2014 libstdc++.la
+lrwxrwxrwx  1 root root        19 Nov  2  2014 libstdc++.so -> libstdc++.so.6.0.20
+lrwxrwxrwx  1 root root        28 Oct 18  2024 libstdc++.so.6 -> /ffp/lib/libstdc++.so.6.0.20
+-rwxr-xr-x  1 root root   1115311 Dec 21  2011 libstdc++.so.6.0.14
+lrwxrwxrwx  1 root root        28 Oct  2  2024 libstdc++.so.6.0.14-gdb.py -> /ffp/lib/libstdc++.so.6.0.20
+-rwxr-xr-x  1 root root   1493329 Nov  2  2014 libstdc++.so.6.0.20
+-rw-r--r--  1 root root    677336 Nov  2  2014 libsupc++.a
+-rwxr-xr-x  1 root root       884 Nov  2  2014 libsupc++.la
+lrwxrwxrwx  1 root root        24 May 24  2017 libswresample.so -> libswresample.so.2.7.100
+lrwxrwxrwx  1 root root        24 May 24  2017 libswresample.so.2 -> libswresample.so.2.7.100
+-rwxr-xr-x  1 root root    102149 May 24  2017 libswresample.so.2.7.100
+lrwxrwxrwx  1 root root        21 May 24  2017 libswscale.so -> libswscale.so.4.6.100
+lrwxrwxrwx  1 root root        21 May 24  2017 libswscale.so.4 -> libswscale.so.4.6.100
+-rwxr-xr-x  1 root root    433488 May 24  2017 libswscale.so.4.6.100
+-rw-r--r--  1 root root     95568 Dec  9  2016 libtasn1.a
+-rwxr-xr-x  1 root root       944 Dec  9  2016 libtasn1.la
+lrwxrwxrwx  1 root root        17 Dec  9  2016 libtasn1.so -> libtasn1.so.6.5.2
+lrwxrwxrwx  1 root root        17 Dec  9  2016 libtasn1.so.6 -> libtasn1.so.6.5.2
+-rwxr-xr-x  1 root root     72959 Dec  9  2016 libtasn1.so.6.5.2
+lrwxrwxrwx  1 root root        12 Oct  3  2014 libtcl.so -> libtcl8.6.so
+-rwxr-xr-x  1 root root   1636758 Oct  3  2014 libtcl8.6.so
+-rwxr-xr-x  1 root root      5768 Oct  3  2014 libtclstub8.6.a
+-rw-r--r--  1 root root   3784414 Apr 30 21:33 libtextstyle.a
+-rwxr-xr-x  1 root root      1021 Apr 30 21:33 libtextstyle.la
+lrwxrwxrwx  1 root root        21 Apr 30 21:33 libtextstyle.so -> libtextstyle.so.0.2.4
+lrwxrwxrwx  1 root root        21 Apr 30 21:33 libtextstyle.so.0 -> libtextstyle.so.0.2.4
+-rwxr-xr-x  1 root root   2272470 Apr 30 21:33 libtextstyle.so.0.2.4
+-rw-r--r--  1 root root    322900 May 18  2017 libtheora.a
+-rwxr-xr-x  1 root root       948 May 18  2017 libtheora.la
+lrwxrwxrwx  1 root root        19 May 18  2017 libtheora.so -> libtheora.so.0.3.10
+lrwxrwxrwx  1 root root        19 May 18  2017 libtheora.so.0 -> libtheora.so.0.3.10
+-rwxr-xr-x  1 root root    285621 May 18  2017 libtheora.so.0.3.10
+-rw-r--r--  1 root root     97680 May 18  2017 libtheoradec.a
+-rwxr-xr-x  1 root root       948 May 18  2017 libtheoradec.la
+lrwxrwxrwx  1 root root        21 May 18  2017 libtheoradec.so -> libtheoradec.so.1.1.4
+lrwxrwxrwx  1 root root        21 May 18  2017 libtheoradec.so.1 -> libtheoradec.so.1.1.4
+-rwxr-xr-x  1 root root     85945 May 18  2017 libtheoradec.so.1.1.4
+-rw-r--r--  1 root root    258778 May 18  2017 libtheoraenc.a
+-rwxr-xr-x  1 root root       967 May 18  2017 libtheoraenc.la
+lrwxrwxrwx  1 root root        21 May 18  2017 libtheoraenc.so -> libtheoraenc.so.1.1.2
+lrwxrwxrwx  1 root root        21 May 18  2017 libtheoraenc.so.1 -> libtheoraenc.so.1.1.2
+-rwxr-xr-x  1 root root    234597 May 18  2017 libtheoraenc.so.1.1.2
+-rwxr-xr-x  1 root root     20058 Dec 22  2011 libthread_db-0.9.33-git.so
+-rwxr-xr-x  1 root root     19902 May 22  2016 libthread_db-0.9.33.3-git.so
+-rw-r--r--  1 root root     53182 May 22  2016 libthread_db.a
+lrwxrwxrwx  1 root root        28 May 22  2016 libthread_db.so -> libthread_db-0.9.33.3-git.so
+lrwxrwxrwx  1 root root        28 May 22  2016 libthread_db.so.1 -> libthread_db-0.9.33.3-git.so
+lrwxrwxrwx  1 root root        14 May 22  2016 libthread_db_pic.a -> libthread_db.a
+-rw-r--r--  1 root root    340144 Jun 22  2013 libturbojpeg.a
+-rwxr-xr-x  1 root root       830 Jun 22  2013 libturbojpeg.la
+lrwxrwxrwx  1 root root        21 Jun 22  2013 libturbojpeg.so -> libturbojpeg.so.0.0.0
+lrwxrwxrwx  1 root root        21 Jun 22  2013 libturbojpeg.so.0 -> libturbojpeg.so.0.0.0
+-rwxr-xr-x  1 root root    271663 Jun 22  2013 libturbojpeg.so.0.0.0
+-rw-r--r--  1 root root    469602 May 19  2017 libtwolame.a
+-rwxr-xr-x  1 root root       934 May 19  2017 libtwolame.la
+lrwxrwxrwx  1 root root        19 May 19  2017 libtwolame.so -> libtwolame.so.0.0.0
+lrwxrwxrwx  1 root root        19 May 19  2017 libtwolame.so.0 -> libtwolame.so.0.0.0
+-rwxr-xr-x  1 root root    142788 May 19  2017 libtwolame.so.0.0.0
+-rwxr-xr-x  1 root root    359940 Dec 22  2011 libuClibc-0.9.33-git.so
+-rwxr-xr-x  1 root root    385880 May 22  2016 libuClibc-0.9.33.3-git.so
+-rwxr-xr-x  1 root root      3784 May 22  2016 libubacktrace-0.9.33.3-git.so
+-rw-r--r--  1 root root      5244 May 22  2016 libubacktrace.a
+lrwxrwxrwx  1 root root        29 May 22  2016 libubacktrace.so -> libubacktrace-0.9.33.3-git.so
+lrwxrwxrwx  1 root root        29 May 22  2016 libubacktrace.so.0 -> libubacktrace-0.9.33.3-git.so
+lrwxrwxrwx  1 root root        15 May 22  2016 libubacktrace_pic.a -> libubacktrace.a
+-rw-r--r--  1 root root   1135208 Nov  2  2014 libubsan.a
+-rwxr-xr-x  1 root root       980 Nov  2  2014 libubsan.la
+lrwxrwxrwx  1 root root        17 Nov  2  2014 libubsan.so -> libubsan.so.0.0.0
+lrwxrwxrwx  1 root root        17 Nov  2  2014 libubsan.so.0 -> libubsan.so.0.0.0
+-rwxr-xr-x  1 root root    348542 Nov  2  2014 libubsan.so.0.0.0
+-rw-rw-r--  1 root root         8 May 28 06:21 libucontext.a
+lrwxrwxrwx  1 root root        16 May 28 06:21 libucontext.so -> libucontext.so.1
+-rwxr-xr-x  1 root root      5152 May 28 06:21 libucontext.so.1
+-rw-r--r--  1 root root     87228 May 28 06:21 libucontext_posix.a
+-rwxr-xr-x  1 root root     62060 May 28 06:21 libucontext_posix.so.1
+-rw-r--r--  1 root root      5756 Mar 22  2012 libulockmgr.a
+-rwxr-xr-x  1 root root       946 Mar 22  2012 libulockmgr.la
+lrwxrwxrwx  1 root root        20 Mar 22  2012 libulockmgr.so -> libulockmgr.so.1.0.1
+lrwxrwxrwx  1 root root        20 Mar 22  2012 libulockmgr.so.1 -> libulockmgr.so.1.0.1
+-rwxr-xr-x  1 root root      7328 Mar 22  2012 libulockmgr.so.1.0.1
+-rwxr-xr-x  1 root root      3888 Dec 22  2011 libutil-0.9.33-git.so
+-rwxr-xr-x  1 root root      3812 May 22  2016 libutil-0.9.33.3-git.so
+-rw-r--r--  1 root root      7656 May 22  2016 libutil.a
+lrwxrwxrwx  1 root root        23 May 22  2016 libutil.so -> libutil-0.9.33.3-git.so
+lrwxrwxrwx  1 root root        23 May 22  2016 libutil.so.0 -> libutil-0.9.33.3-git.so
+lrwxrwxrwx  1 root root         9 May 22  2016 libutil_pic.a -> libutil.a
+-rw-r--r--  1 root root     22644 Oct 21  2016 libuuid.a
+-rwxr-xr-x  1 root root       921 Oct 21  2016 libuuid.la
+lrwxrwxrwx  1 root root        16 Oct 21  2016 libuuid.so -> libuuid.so.1.3.0
+lrwxrwxrwx  1 root root        16 Oct 21  2016 libuuid.so.1 -> libuuid.so.1.3.0
+-rwxr-xr-x  1 root root     19829 Oct 21  2016 libuuid.so.1.3.0
+drwxr-xr-x  3 root root      4096 Apr 11  2016 libv4l
+-rw-r--r--  1 root root     25158 Apr 11  2016 libv4l1.a
+-rwxr-xr-x  1 root root      1030 Apr 11  2016 libv4l1.la
+lrwxrwxrwx  1 root root        16 Apr 11  2016 libv4l1.so -> libv4l1.so.0.0.0
+lrwxrwxrwx  1 root root        16 Apr 11  2016 libv4l1.so.0 -> libv4l1.so.0.0.0
+-rwxr-xr-x  1 root root     28769 Apr 11  2016 libv4l1.so.0.0.0
+-rw-r--r--  1 root root     52100 Apr 11  2016 libv4l2.a
+-rwxr-xr-x  1 root root      1010 Apr 11  2016 libv4l2.la
+lrwxrwxrwx  1 root root        16 Apr 11  2016 libv4l2.so -> libv4l2.so.0.0.0
+lrwxrwxrwx  1 root root        16 Apr 11  2016 libv4l2.so.0 -> libv4l2.so.0.0.0
+-rwxr-xr-x  1 root root     57710 Apr 11  2016 libv4l2.so.0.0.0
+-rw-r--r--  1 root root     17512 Apr 11  2016 libv4l2rds.a
+-rwxr-xr-x  1 root root       971 Apr 11  2016 libv4l2rds.la
+lrwxrwxrwx  1 root root        19 Apr 11  2016 libv4l2rds.so -> libv4l2rds.so.0.0.0
+lrwxrwxrwx  1 root root        19 Apr 11  2016 libv4l2rds.so.0 -> libv4l2rds.so.0.0.0
+-rwxr-xr-x  1 root root     24332 Apr 11  2016 libv4l2rds.so.0.0.0
+-rw-r--r--  1 root root    197816 Apr 11  2016 libv4lconvert.a
+-rwxr-xr-x  1 root root      1011 Apr 11  2016 libv4lconvert.la
+lrwxrwxrwx  1 root root        22 Apr 11  2016 libv4lconvert.so -> libv4lconvert.so.0.0.0
+lrwxrwxrwx  1 root root        22 Apr 11  2016 libv4lconvert.so.0 -> libv4lconvert.so.0.0.0
+-rwxr-xr-x  1 root root    168155 Apr 11  2016 libv4lconvert.so.0.0.0
+-rw-r--r--  1 root root    230296 May 17  2017 libvorbis.a
+-rwxr-xr-x  1 root root       947 May 17  2017 libvorbis.la
+lrwxrwxrwx  1 root root        18 May 17  2017 libvorbis.so -> libvorbis.so.0.4.8
+lrwxrwxrwx  1 root root        18 May 17  2017 libvorbis.so.0 -> libvorbis.so.0.4.8
+-rwxr-xr-x  1 root root    196424 May 17  2017 libvorbis.so.0.4.8
+-rw-r--r--  1 root root    640202 May 17  2017 libvorbisenc.a
+-rwxr-xr-x  1 root root       992 May 17  2017 libvorbisenc.la
+lrwxrwxrwx  1 root root        22 May 17  2017 libvorbisenc.so -> libvorbisenc.so.2.0.11
+lrwxrwxrwx  1 root root        22 May 17  2017 libvorbisenc.so.2 -> libvorbisenc.so.2.0.11
+-rwxr-xr-x  1 root root    642849 May 17  2017 libvorbisenc.so.2.0.11
+-rw-r--r--  1 root root     37176 May 17  2017 libvorbisfile.a
+-rwxr-xr-x  1 root root       997 May 17  2017 libvorbisfile.la
+lrwxrwxrwx  1 root root        22 May 17  2017 libvorbisfile.so -> libvorbisfile.so.3.3.7
+lrwxrwxrwx  1 root root        22 May 17  2017 libvorbisfile.so.3 -> libvorbisfile.so.3.3.7
+-rwxr-xr-x  1 root root     44510 May 17  2017 libvorbisfile.so.3.3.7
+-rw-r--r--  1 root root   1718034 May 18  2017 libvpx.a
+lrwxrwxrwx  1 root root        15 May 18  2017 libvpx.so -> libvpx.so.4.1.0
+lrwxrwxrwx  1 root root        15 May 18  2017 libvpx.so.4 -> libvpx.so.4.1.0
+lrwxrwxrwx  1 root root        15 May 18  2017 libvpx.so.4.1 -> libvpx.so.4.1.0
+-rwxr-xr-x  1 root root   1379470 May 18  2017 libvpx.so.4.1.0
+-rw-r--r--  1 root root   1804944 Feb 20  2017 libvt-hyb.a
+-rwxr-xr-x  1 root root      1282 Feb 20  2017 libvt-hyb.la
+lrwxrwxrwx  1 root root        18 Feb 20  2017 libvt-hyb.so -> libvt-hyb.so.0.0.0
+lrwxrwxrwx  1 root root        18 Feb 20  2017 libvt-hyb.so.0 -> libvt-hyb.so.0.0.0
+-rwxr-xr-x  1 root root    543622 Feb 20  2017 libvt-hyb.so.0.0.0
+-rw-r--r--  1 root root  10990884 Feb 20  2017 libvt-mpi-unify.a
+-rwxr-xr-x  1 root root      1259 Feb 20  2017 libvt-mpi-unify.la
+lrwxrwxrwx  1 root root        24 Feb 20  2017 libvt-mpi-unify.so -> libvt-mpi-unify.so.0.0.0
+lrwxrwxrwx  1 root root        24 Feb 20  2017 libvt-mpi-unify.so.0 -> libvt-mpi-unify.so.0.0.0
+-rwxr-xr-x  1 root root    620093 Feb 20  2017 libvt-mpi-unify.so.0.0.0
+-rw-r--r--  1 root root   1594304 Feb 20  2017 libvt-mpi.a
+-rwxr-xr-x  1 root root      1249 Feb 20  2017 libvt-mpi.la
+lrwxrwxrwx  1 root root        18 Feb 20  2017 libvt-mpi.so -> libvt-mpi.so.0.0.0
+lrwxrwxrwx  1 root root        18 Feb 20  2017 libvt-mpi.so.0 -> libvt-mpi.so.0.0.0
+-rwxr-xr-x  1 root root    475307 Feb 20  2017 libvt-mpi.so.0.0.0
+-rw-r--r--  1 root root   1131820 Feb 20  2017 libvt-mt.a
+-rwxr-xr-x  1 root root      1091 Feb 20  2017 libvt-mt.la
+lrwxrwxrwx  1 root root        17 Feb 20  2017 libvt-mt.so -> libvt-mt.so.0.0.0
+lrwxrwxrwx  1 root root        17 Feb 20  2017 libvt-mt.so.0 -> libvt-mt.so.0.0.0
+-rwxr-xr-x  1 root root    325296 Feb 20  2017 libvt-mt.so.0.0.0
+-rw-r--r--  1 root root    113958 Feb 20  2017 libvt-pomp.a
+-rwxr-xr-x  1 root root       995 Feb 20  2017 libvt-pomp.la
+-rw-r--r--  1 root root   1055174 Feb 20  2017 libvt.a
+-rwxr-xr-x  1 root root      1061 Feb 20  2017 libvt.la
+lrwxrwxrwx  1 root root        14 Feb 20  2017 libvt.so -> libvt.so.0.0.0
+lrwxrwxrwx  1 root root        14 Feb 20  2017 libvt.so.0 -> libvt.so.0.0.0
+-rwxr-xr-x  1 root root    302973 Feb 20  2017 libvt.so.0.0.0
+-rw-r--r--  1 root root   2341752 May 22  2017 libwebp.a
+-rwxr-xr-x  1 root root       948 May 22  2017 libwebp.la
+lrwxrwxrwx  1 root root        16 May 22  2017 libwebp.so -> libwebp.so.7.0.0
+lrwxrwxrwx  1 root root        10 May 22  2017 libwebp.so.5 -> libwebp.so
+lrwxrwxrwx  1 root root        16 May 22  2017 libwebp.so.7 -> libwebp.so.7.0.0
+-rwxr-xr-x  1 root root    357978 May 22  2017 libwebp.so.7.0.0
+-rw-r--r--  1 root root   1099216 May 22  2017 libwebpdecoder.a
+-rwxr-xr-x  1 root root       997 May 22  2017 libwebpdecoder.la
+lrwxrwxrwx  1 root root        23 May 22  2017 libwebpdecoder.so -> libwebpdecoder.so.3.0.0
+lrwxrwxrwx  1 root root        23 May 22  2017 libwebpdecoder.so.3 -> libwebpdecoder.so.3.0.0
+-rwxr-xr-x  1 root root    160246 May 22  2017 libwebpdecoder.so.3.0.0
+-rw-r--r--  1 root root     75258 May 22  2017 libwebpdemux.a
+-rwxr-xr-x  1 root root      1003 May 22  2017 libwebpdemux.la
+lrwxrwxrwx  1 root root        21 May 22  2017 libwebpdemux.so -> libwebpdemux.so.2.0.2
+lrwxrwxrwx  1 root root        21 May 22  2017 libwebpdemux.so.2 -> libwebpdemux.so.2.0.2
+-rwxr-xr-x  1 root root     16361 May 22  2017 libwebpdemux.so.2.0.2
+-rw-r--r--  1 root root    213648 May 22  2017 libwebpmux.a
+-rwxr-xr-x  1 root root       989 May 22  2017 libwebpmux.la
+lrwxrwxrwx  1 root root        19 May 22  2017 libwebpmux.so -> libwebpmux.so.3.0.0
+lrwxrwxrwx  1 root root        19 May 22  2017 libwebpmux.so.3 -> libwebpmux.so.3.0.0
+-rwxr-xr-x  1 root root     39344 May 22  2017 libwebpmux.so.3.0.0
+-rw-r--r--  1 root root     58906 Dec 22  2011 libwrap.a
+-rw-r--r--  1 root root   1074392 May 25  2017 libx264.a
+lrwxrwxrwx  1 root root        14 May 25  2017 libx264.so -> libx264.so.148
+-rwxr-xr-x  1 root root    960319 May 25  2017 libx264.so.148
+-rw-r--r--  1 root root   1497278 May 21  2017 libx265.a
+lrwxrwxrwx  1 root root        14 May 21  2017 libx265.so -> libx265.so.116
+-rwxr-xr-x  1 root root   1264854 May 21  2017 libx265.so.116
+-rw-r--r--  1 root root   2002890 Nov 13  2014 libxml2.a
+-rwxr-xr-x  1 root root       986 Nov 13  2014 libxml2.la
+lrwxrwxrwx  1 root root        16 Nov 13  2014 libxml2.so -> libxml2.so.2.9.2
+lrwxrwxrwx  1 root root        16 Nov 13  2014 libxml2.so.2 -> libxml2.so.2.9.2
+-rwxr-xr-x  1 root root   1869621 Nov 14  2014 libxml2.so.2.9.2
+-rwxr-xr-x  1 root root       953 Nov 12  2021 libxtables.la
+lrwxrwxrwx  1 root root        19 Nov 12  2021 libxtables.so -> libxtables.so.7.1.0
+lrwxrwxrwx  1 root root        19 Nov 12  2021 libxtables.so.7 -> libxtables.so.7.1.0
+-rwxr-xr-x  1 root root     50040 Nov 12  2021 libxtables.so.7.1.0
+-rw-r--r--  1 root root      2406 Sep 24  2014 liby.a
+lrwxrwxrwx  1 root root        18 Jun  1 07:53 libyaml-0.so.2 -> libyaml-0.so.2.0.9
+-rwxr-xr-x  1 root root    322635 Jun  1 07:53 libyaml-0.so.2.0.9
+-rw-r--r--  1 root root    451040 Jun  1 07:53 libyaml.a
+-rwxr-xr-x  1 root root       916 Jun  1 07:53 libyaml.la
+lrwxrwxrwx  1 root root        18 Jun  1 07:53 libyaml.so -> libyaml-0.so.2.0.9
+-rw-r--r--  1 root root    122958 Jun 23 11:18 libz.a
+lrwxrwxrwx  1 root root        14 May 17  2017 libz.so -> libz.so.1.2.11
+lrwxrwxrwx  1 root root        14 May 17  2017 libz.so.1 -> libz.so.1.2.11
+-rwxr-xr-x  1 root root    106951 May 17  2017 libz.so.1.2.11
+-rwxr-xr-x  1 root root    106951 May 17  2017 libz.so.1.2.5
+-rwxr-xr-x  1 root root       939 Dec 12  2012 mod_access.la
+-rwxr-xr-x  1 root root      7350 Dec 12  2012 mod_access.so
+-rwxr-xr-x  1 root root       957 Dec 12  2012 mod_accesslog.la
+-rwxr-xr-x  1 root root     16914 Dec 12  2012 mod_accesslog.so
+-rwxr-xr-x  1 root root       933 Dec 12  2012 mod_alias.la
+-rwxr-xr-x  1 root root      7920 Dec 12  2012 mod_alias.so
+-rwxr-xr-x  1 root root       935 Dec 12  2012 mod_auth.la
+-rwxr-xr-x  1 root root     27275 Dec 12  2012 mod_auth.so
+-rwxr-xr-x  1 root root       921 Dec 12  2012 mod_cgi.la
+-rwxr-xr-x  1 root root     23556 Dec 12  2012 mod_cgi.so
+-rwxr-xr-x  1 root root       925 Dec 12  2012 mod_cml.la
+-rwxr-xr-x  1 root root      9426 Dec 12  2012 mod_cml.so
+-rwxr-xr-x  1 root root       961 Dec 12  2012 mod_compress.la
+-rwxr-xr-x  1 root root     22545 Dec 12  2012 mod_compress.so
+-rwxr-xr-x  1 root root       983 Dec 12  2012 mod_dirlisting.la
+-rwxr-xr-x  1 root root     19499 Dec 12  2012 mod_dirlisting.so
+-rwxr-xr-x  1 root root       945 Dec 12  2012 mod_evasive.la
+-rwxr-xr-x  1 root root      7287 Dec 12  2012 mod_evasive.so
+-rwxr-xr-x  1 root root       939 Dec 12  2012 mod_evhost.la
+-rwxr-xr-x  1 root root      9893 Dec 12  2012 mod_evhost.so
+-rwxr-xr-x  1 root root       939 Dec 12  2012 mod_expire.la
+-rwxr-xr-x  1 root root     10350 Dec 12  2012 mod_expire.so
+-rwxr-xr-x  1 root root       963 Dec 12  2012 mod_extforward.la
+-rwxr-xr-x  1 root root     11040 Dec 12  2012 mod_extforward.so
+-rwxr-xr-x  1 root root       945 Dec 12  2012 mod_fastcgi.la
+-rwxr-xr-x  1 root root     51513 Dec 12  2012 mod_fastcgi.so
+-rwxr-xr-x  1 root root       981 Dec 12  2012 mod_flv_streaming.la
+-rwxr-xr-x  1 root root      9288 Dec 12  2012 mod_flv_streaming.so
+-rwxr-xr-x  1 root root       957 Dec 12  2012 mod_indexfile.la
+-rwxr-xr-x  1 root root      8606 Dec 12  2012 mod_indexfile.so
+-rwxr-xr-x  1 root root       943 Dec 12  2012 mod_magnet.la
+-rwxr-xr-x  1 root root      4651 Dec 12  2012 mod_magnet.so
+-rwxr-xr-x  1 root root       969 Dec 12  2012 mod_mysql_vhost.la
+-rwxr-xr-x  1 root root      4911 Dec 12  2012 mod_mysql_vhost.so
+-rwxr-xr-x  1 root root       933 Dec 12  2012 mod_proxy.la
+-rwxr-xr-x  1 root root     23473 Dec 12  2012 mod_proxy.so
+-rwxr-xr-x  1 root root       971 Dec 12  2012 mod_redirect.la
+-rwxr-xr-x  1 root root      9866 Dec 12  2012 mod_redirect.so
+-rwxr-xr-x  1 root root       965 Dec 12  2012 mod_rewrite.la
+-rwxr-xr-x  1 root root     11972 Dec 12  2012 mod_rewrite.so
+-rwxr-xr-x  1 root root       945 Dec 12  2012 mod_rrdtool.la
+-rwxr-xr-x  1 root root     16282 Dec 12  2012 mod_rrdtool.so
+-rwxr-xr-x  1 root root       927 Dec 12  2012 mod_scgi.la
+-rwxr-xr-x  1 root root     40116 Dec 12  2012 mod_scgi.so
+-rwxr-xr-x  1 root root       969 Dec 12  2012 mod_secdownload.la
+-rwxr-xr-x  1 root root      9568 Dec 12  2012 mod_secdownload.so
+-rwxr-xr-x  1 root root       939 Dec 12  2012 mod_setenv.la
+-rwxr-xr-x  1 root root      7998 Dec 12  2012 mod_setenv.so
+-rwxr-xr-x  1 root root       975 Dec 12  2012 mod_simple_vhost.la
+-rwxr-xr-x  1 root root      9205 Dec 12  2012 mod_simple_vhost.so
+-rwxr-xr-x  1 root root       941 Dec 12  2012 mod_ssi.la
+-rwxr-xr-x  1 root root     29700 Dec 12  2012 mod_ssi.so
+-rwxr-xr-x  1 root root       963 Dec 12  2012 mod_staticfile.la
+-rwxr-xr-x  1 root root     13417 Dec 12  2012 mod_staticfile.so
+-rwxr-xr-x  1 root root       939 Dec 12  2012 mod_status.la
+-rwxr-xr-x  1 root root     24668 Dec 12  2012 mod_status.so
+-rwxr-xr-x  1 root root      1001 Dec 12  2012 mod_trigger_b4_dl.la
+-rwxr-xr-x  1 root root      8999 Dec 12  2012 mod_trigger_b4_dl.so
+-rwxr-xr-x  1 root root       945 Dec 12  2012 mod_userdir.la
+-rwxr-xr-x  1 root root      9804 Dec 12  2012 mod_userdir.so
+-rwxr-xr-x  1 root root       957 Dec 12  2012 mod_usertrack.la
+-rwxr-xr-x  1 root root     10078 Dec 12  2012 mod_usertrack.so
+-rwxr-xr-x  1 root root       939 Dec 12  2012 mod_webdav.la
+-rwxr-xr-x  1 root root     23256 Dec 12  2012 mod_webdav.so
+-rwxr-xr-x  1 root root    899111 Feb 21  2017 mpi.so
+drwxr-xr-x  3 root root      4096 Aug 15  2015 mysql
+drwxr-xr-x  3 root root      4096 Feb 18  2018 node_modules
+drwxr-xr-x  2 root root      4096 Feb 20  2017 openmpi
+drwxr-xr-x  2 root root      4096 May 28 04:52 ossl-modules
+drwxr-xr-x  6 root root      4096 Jan 20  2012 perl5
+drwxr-xr-x  4 root root      4096 Apr 28  2017 php
+drwxr-xr-x  2 root root      4096 Jun 23 11:18 pkgconfig
+drwxr-xr-x  2 root root      4096 Oct 29  2012 plugin
+-rwxr-xr-x  1 root root    950525 Nov  3  2014 preloadable_libiconv.so
+drwxr-xr-x 39 root root      4096 Oct 16  2024 python3.11
+drwxr-sr-x  4 root 10301     4096 Oct 16  2024 python3.9
+drwxr-sr-x  8 root 10301     4096 Oct 14  2024 site-packages
+drwxr-xr-x  2 root root      4096 Sep 30  2024 sqlite3.8.6
+drwxr-xr-x  2 root root      4096 Nov 30  2015 sudo
+drwxr-xr-x  5 root root      4096 Oct  3  2014 tcl8
+drwxr-xr-x  7 root root      4096 Sep 30  2024 tcl8.6
+-rw-r--r--  1 root root      7682 Oct  3  2014 tclConfig.sh
+-rw-r--r--  1 root root       773 Oct  3  2014 tclooConfig.sh
+drwxr-xr-x  2 root root      4096 Sep 30  2024 tdbc1.0.1
+drwxr-xr-x  2 root root      4096 Sep 30  2024 tdbcmysql1.0.1
+drwxr-xr-x  2 root root      4096 Sep 30  2024 tdbcodbc1.0.1
+drwxr-xr-x  2 root root      4096 Sep 30  2024 tdbcpostgres1.0.1
+lrwxrwxrwx  1 root root        17 Mar 28 05:15 terminfo -> ../share/terminfo
+drwxr-xr-x  2 root root      4096 Sep 30  2024 thread2.7.1
+-rw-r--r--  1 root root      7068 May 22  2016 uclibc_nonshared.a
+drwxr-xr-x  4 root root      4096 Apr 11  2016 udev
+lrwxrwxrwx  1 root root        20 Apr 11  2016 v4l1compat.so -> libv4l/v4l1compat.so
+lrwxrwxrwx  1 root root        21 Apr 11  2016 v4l2convert.so -> libv4l/v4l2convert.so
+-rw-r--r--  1 root root       217 Nov 13  2014 xml2Conf.sh
+drwxr-xr-x  2 root root      4096 Nov 12  2021 xtables

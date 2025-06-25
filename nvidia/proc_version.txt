@@ -1,0 +1,1 @@
+Linux version 3.10.33-g6cf6b55 (android@cybaryme) (gcc version 4.8 (GCC) ) #1 SMP PREEMPT Thu Dec 29 16:59:39 AST 2016

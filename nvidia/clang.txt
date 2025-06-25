@@ -1,0 +1,4 @@
+clang version 9.0.0 (tags/RELEASE_900/final)
+Target: arm-unknown-linux-android
+Thread model: posix
+InstalledDir: /data/data/com.termux/files/usr/bin

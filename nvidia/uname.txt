@@ -1,0 +1,1 @@
+Linux localhost 3.10.33-g6cf6b55 #1 SMP PREEMPT Thu Dec 29 16:59:39 AST 2016 armv7l Android

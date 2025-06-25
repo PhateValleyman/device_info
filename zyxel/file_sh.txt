@@ -1,0 +1,1 @@
+/ffp/bin/sh: ELF 32-bit LSB executable, ARM, version 1 (SYSV), dynamically linked (uses shared libs), not stripped
